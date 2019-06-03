@@ -1,0 +1,3020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+  <row>
+    <place_original>Aachen</place_original>
+    <place_reconciled>Aachen</place_reconciled>
+    <place_wikidata_id>Q1017</place_wikidata_id>
+    <description_de>Großstadt in Nordrhein-Westfalen, Deutschland</description_de>
+    <description>city in North Rhine-Westphalia, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/3/39/Blick_AC_Dom_von_St_Jakob.JPG</img_url>
+    <coordinate location>50.776207,6.083788</coordinate location>
+    <WKT>POINT(6.083788 50.776207)</WKT>
+    <GND ID>4000003-5</GND ID>
+    <Freebase ID>/m/0qjd</Freebase ID>
+    <GeoNames ID>3247449</GeoNames ID>
+    <TGN ID>7004799</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/404</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Aarau</place_original>
+    <place_reconciled>Aarau</place_reconciled>
+    <place_wikidata_id>Q14274</place_wikidata_id>
+    <description_de>politische Gemeinde, Hauptort des Kantons Aargau, Schweiz</description_de>
+    <description>capital of Canton Aargau, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/f0/Aarau_Altstadt_Kirche_8941.jpg</img_url>
+    <coordinate location>47.3923,8.0446</coordinate location>
+    <WKT>POINT(8.0446 47.3923)</WKT>
+    <GND ID>4000018-7</GND ID>
+    <Freebase ID>/m/0zq6</Freebase ID>
+    <GeoNames ID>7285013</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/423</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Aigle</place_original>
+    <place_reconciled>Aigle</place_reconciled>
+    <place_wikidata_id>Q43195</place_wikidata_id>
+    <description_de>Gemeinde im Kanton Waadt in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/5/53/Aigle.jpg</img_url>
+    <coordinate location>46.3173,6.9646</coordinate location>
+    <WKT>POINT(6.9646 46.3173)</WKT>
+    <GND ID>4289597-2</GND ID>
+    <Freebase ID>/m/02md8j</Freebase ID>
+    <GeoNames ID>7285042</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/2161</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Aigle (Waadt)</place_original>
+    <place_reconciled>Aigle</place_reconciled>
+    <place_wikidata_id>Q43195</place_wikidata_id>
+    <description_de>Gemeinde im Kanton Waadt in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/5/53/Aigle.jpg</img_url>
+    <coordinate location>46.3173,6.9646</coordinate location>
+    <WKT>POINT(6.9646 46.3173)</WKT>
+    <GND ID>4289597-2</GND ID>
+    <Freebase ID>/m/02md8j</Freebase ID>
+    <GeoNames ID>7285042</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/2161</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Amsterdam</place_original>
+    <place_reconciled>Amsterdam</place_reconciled>
+    <place_wikidata_id>Q727</place_wikidata_id>
+    <description_de>Hauptstadt der Niederlande</description_de>
+    <description>capital and largest city of the Netherlands</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/7/74/AmsterdamLuchtfotoBmz.jpg</img_url>
+    <coordinate location>52.383333333333,4.9</coordinate location>
+    <WKT>POINT(4.9 52.383333333333)</WKT>
+    <GND ID>4001783-7</GND ID>
+    <Freebase ID>/m/0k3p</Freebase ID>
+    <GeoNames ID>2759794</GeoNames ID>
+    <TGN ID>7006952</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/3011</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Anticoli Corrado</place_original>
+    <place_reconciled>Anticoli Corrado</place_reconciled>
+    <place_wikidata_id>Q241708</place_wikidata_id>
+    <description_de>italienische Gemeinde</description_de>
+    <description>Italian comune</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/19/Anticoli_Corrado_01.jpg</img_url>
+    <coordinate location>42.016666666667,12.983333333333</coordinate location>
+    <WKT>POINT(12.983333333333 42.016666666667)</WKT>
+    <GND ID>4428359-3</GND ID>
+    <Freebase ID>/m/0gm6r6</Freebase ID>
+    <GeoNames ID>6538667</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/791</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Anvers</place_original>
+    <place_reconciled>Antwerp</place_reconciled>
+    <place_wikidata_id>Q12892</place_wikidata_id>
+    <description_de>belgische Großstadt</description_de>
+    <description>city in the province of Antwerp, Belgium</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/6/6d/Antwerpen_vanop_mas_2.JPG</img_url>
+    <coordinate location>51.217777777778,4.4002777777778</coordinate location>
+    <WKT>POINT(4.4002777777778 51.217777777778)</WKT>
+    <GND ID>4002364-3</GND ID>
+    <Freebase ID>/m/0fydw</Freebase ID>
+    <GeoNames ID>2803139</GeoNames ID>
+    <TGN ID>7007856</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/433</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Arbon Kt. Thurgau</place_original>
+    <place_reconciled>Arbon</place_reconciled>
+    <place_wikidata_id>Q64156</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/4a/Picswiss_TG-11-01.jpg</img_url>
+    <coordinate location>47.516666666667,9.4333333333333</coordinate location>
+    <WKT>POINT(9.4333333333333 47.516666666667)</WKT>
+    <GND ID>4085883-2</GND ID>
+    <Freebase ID>/m/0g363d</Freebase ID>
+    <GeoNames ID>7285089</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/248</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Arisdorf</place_original>
+    <place_reconciled>Arisdorf</place_reconciled>
+    <place_wikidata_id>Q66564</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/e/e9/Arisdorf-olsberg.JPG</img_url>
+    <coordinate location>47.512777777778,7.765</coordinate location>
+    <WKT>POINT(7.765 47.512777777778)</WKT>
+    <GND ID>4567671-9</GND ID>
+    <Freebase ID>/m/0g6f0y</Freebase ID>
+    <GeoNames ID>7285094</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/415</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Arlesheim</place_original>
+    <place_reconciled>Arlesheim</place_reconciled>
+    <place_wikidata_id>Q581647</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/3/33/Arlesheim-Dorf.jpg</img_url>
+    <coordinate location>47.492222222222,7.6202777777778</coordinate location>
+    <WKT>POINT(7.6202777777778 47.492222222222)</WKT>
+    <GND ID>4002929-3</GND ID>
+    <Freebase ID>/m/0g77y5</Freebase ID>
+    <GeoNames ID>7285096</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/440</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Arosa</place_original>
+    <place_reconciled>Arosa</place_reconciled>
+    <place_wikidata_id>Q63954</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>resort in the canton of Graubünden, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/fd/Arosa2007_12_15_001.JPG</img_url>
+    <coordinate location>46.783055555556,9.6830555555556</coordinate location>
+    <WKT>POINT(9.6830555555556 46.783055555556)</WKT>
+    <GND ID>4079837-9</GND ID>
+    <Freebase ID>/m/0643ch</Freebase ID>
+    <GeoNames ID>7285102</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/247</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Aussersihl</place_original>
+    <place_reconciled>Aussersihl</place_reconciled>
+    <place_wikidata_id>Q677133</place_wikidata_id>
+    <description_de>Stadtteil von Zürich</description_de>
+    <description>district in Zürich, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/c0/Z%C3%BCrich_-_Hardau_-_Industriequartier_-_Uetlibergturm_IMG_1596.JPG</img_url>
+    <coordinate location>47.375,8.527</coordinate location>
+    <WKT>POINT(8.527 47.375)</WKT>
+    <GND ID>4657875-4</GND ID>
+    <Freebase ID>/m/02vv251</Freebase ID>
+    <GeoNames ID>2661666</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/400</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Baden (Aargau)</place_original>
+    <place_reconciled>Baden</place_reconciled>
+    <place_wikidata_id>Q63939</place_wikidata_id>
+    <description_de>Gemeinde im Kanton Aargau, Schweiz</description_de>
+    <description>municipality in the canton Aargau, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/a/ad/Switzerland-Baden-oldcityview.jpg</img_url>
+    <coordinate location>47.473333333333,8.3041666666667</coordinate location>
+    <WKT>POINT(8.3041666666667 47.473333333333)</WKT>
+    <GND ID>4004164-5</GND ID>
+    <Freebase ID>/m/0m38g</Freebase ID>
+    <GeoNames ID>7285134</GeoNames ID>
+    <TGN ID>7007314</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/249</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Baden-Baden</place_original>
+    <place_reconciled>Baden-Baden</place_reconciled>
+    <place_wikidata_id>Q4100</place_wikidata_id>
+    <description_de>kreisfreie Stadt in Baden-Württemberg, Deutschland</description_de>
+    <description>town in Baden-Württemberg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/1c/Baden-Baden_10-2015_img24_Stiftskirche.jpg</img_url>
+    <coordinate location>48.761944444444,8.2408333333333</coordinate location>
+    <WKT>POINT(8.2408333333333 48.761944444444)</WKT>
+    <GND ID>4004169-4</GND ID>
+    <Freebase ID>/m/0m38x</Freebase ID>
+    <GeoNames ID>2953504</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/103482</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Badenweiler</place_original>
+    <place_reconciled>Badenweiler</place_reconciled>
+    <place_wikidata_id>Q25430</place_wikidata_id>
+    <description_de>Gemeinde in Baden-Württemberg, Deutschland</description_de>
+    <description>municipality in Baden-Württemberg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/5/5f/BW13_Park_Therme.jpg</img_url>
+    <coordinate location>47.801666666667,7.6719444444444</coordinate location>
+    <WKT>POINT(7.6719444444444 47.801666666667)</WKT>
+    <GND ID>4004174-8</GND ID>
+    <Freebase ID>/m/0f_cp</Freebase ID>
+    <GeoNames ID>2953482</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/256</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Baia</place_original>
+    <place_reconciled>Baiae</place_reconciled>
+    <place_wikidata_id>Q290097</place_wikidata_id>
+    <description_de>antike Siedlung am Golf von Neapel</description_de>
+    <description>human settlement in Bacoli, Metropolitan City of Naples, Campania, Italy</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/0/04/Baia_crater_edge.jpg</img_url>
+    <coordinate location>40.816666666667,14.069722222222</coordinate location>
+    <WKT>POINT(14.069722222222 40.816666666667)</WKT>
+    <GND ID>4080241-3</GND ID>
+    <Freebase ID>/m/03m0rg</Freebase ID>
+    <GeoNames ID>3182488</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/403</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Basel</place_original>
+    <place_reconciled>Basel</place_reconciled>
+    <place_wikidata_id>Q78</place_wikidata_id>
+    <description_de>Schweizer Stadt und Hauptort des Kantons Baselstadt</description_de>
+    <description>city on the Rhine, in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/cb/Rhine_Rhein_Basel_2006_871.JPG</img_url>
+    <coordinate location>47.550555555556,7.5911111111111</coordinate location>
+    <WKT>POINT(7.5911111111111 47.550555555556)</WKT>
+    <GND ID>4004617-5</GND ID>
+    <Freebase ID>/m/01k4f</Freebase ID>
+    <GeoNames ID>7285161</GeoNames ID>
+    <TGN ID>7007269</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/12</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Beinwil</place_original>
+    <place_reconciled>Beinwil</place_reconciled>
+    <place_wikidata_id>Q65024</place_wikidata_id>
+    <description_de>Gemeinde im Kanton Aargau in der Schweiz</description_de>
+    <description>municipality in Aargau, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/9d/Beinwil_%28Freiamt%29_196.jpg</img_url>
+    <coordinate location>47.231666666667,8.3455555555556</coordinate location>
+    <WKT>POINT(8.3455555555556 47.231666666667)</WKT>
+    <GND ID>2112017-1</GND ID>
+    <Freebase ID>/m/0flrsg</Freebase ID>
+    <GeoNames ID>7285182</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/64</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Bellaggio</place_original>
+    <place_reconciled>Bellagio</place_reconciled>
+    <place_wikidata_id>Q244095</place_wikidata_id>
+    <description_de>italienische Gemeinde</description_de>
+    <description>Italian comune</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/d/d7/Bellagio_sfhb.jpg</img_url>
+    <coordinate location>45.9875,9.2619444444444</coordinate location>
+    <WKT>POINT(9.2619444444444 45.9875)</WKT>
+    <GND ID>4140569-9</GND ID>
+    <Freebase ID>/m/033d08</Freebase ID>
+    <GeoNames ID>6540160</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/272</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Bellinzona</place_original>
+    <place_reconciled>Bellinzona</place_reconciled>
+    <place_wikidata_id>Q64044</place_wikidata_id>
+    <description_de>Schweizer Stadt und Hauptort des Kantons Tessin</description_de>
+    <description>capital city of the canton of Ticino, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/a/a4/Tre_Castelli.jpg</img_url>
+    <coordinate location>46.195555,9.023809</coordinate location>
+    <WKT>POINT(9.023809 46.195555)</WKT>
+    <GND ID>4005432-9</GND ID>
+    <Freebase ID>/m/033v4v</Freebase ID>
+    <GeoNames ID>2661567</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/71</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Benken</place_original>
+    <place_reconciled>Biel-Benken</place_reconciled>
+    <place_wikidata_id>Q70067</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/11/Biel-Benken%2C_Pfarrkirche_St._Antonius.jpg</img_url>
+    <coordinate location>47.506944444444,7.525</coordinate location>
+    <WKT>POINT(7.525 47.506944444444)</WKT>
+    <GND ID>4332085-5</GND ID>
+    <Freebase ID>/m/0g77yy</Freebase ID>
+    <GeoNames ID>6698596</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/432</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Bergen</place_original>
+    <place_reconciled>Bergen-Enkheim</place_reconciled>
+    <place_wikidata_id>Q314066</place_wikidata_id>
+    <description_de>Stadtteil von Frankfurt am Main</description_de>
+    <description>district of Frankfurt, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/ba/Bergerrathaus2.JPG</img_url>
+    <coordinate location>50.155, 8.753056</coordinate location>
+    <WKT>POINT(8.753056 50.155)</WKT>
+    <GND ID>4655518-3</GND ID>
+    <Freebase ID>/m/074v3y</Freebase ID>
+    <GeoNames ID>2950614</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/452</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Berlin</place_original>
+    <place_reconciled>Berlin</place_reconciled>
+    <place_wikidata_id>Q64</place_wikidata_id>
+    <description_de>deutsche Großstadt; Hauptstadt und Land der Bundesrepublik Deutschland</description_de>
+    <description>capital and largest city of Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/0/02/Berlin_Skyline_Fernsehturm_02.jpg</img_url>
+    <coordinate location>52.516666666667,13.383333333333</coordinate location>
+    <WKT>POINT(13.383333333333 52.516666666667)</WKT>
+    <GND ID>4005728-8</GND ID>
+    <Freebase ID>/m/0156q</Freebase ID>
+    <GeoNames ID>2950159</GeoNames ID>
+    <TGN ID>7209904</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/13</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Bern</place_original>
+    <place_reconciled>Bern</place_reconciled>
+    <place_wikidata_id>Q70</place_wikidata_id>
+    <description_de>Bundesstadt der Schweiz und Hauptort des Kantons Bern</description_de>
+    <description>capital of Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/7/75/Bern_luftaufnahme.png</img_url>
+    <coordinate location>46.94798,7.44743</coordinate location>
+    <WKT>POINT(7.44743 46.94798)</WKT>
+    <GND ID>4005762-8</GND ID>
+    <Freebase ID>/m/0d6nx</Freebase ID>
+    <GeoNames ID>7285212</GeoNames ID>
+    <TGN ID>7007557</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/25</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Bezirk Sigmaringen</place_original>
+    <place_reconciled>Sigmaringen</place_reconciled>
+    <place_wikidata_id>Q82858</place_wikidata_id>
+    <description_de>Stadt in Deutschland</description_de>
+    <description>municipality in Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/11/Sigmaringen_schloss.jpg</img_url>
+    <coordinate location>48.086666666667,9.2163888888889</coordinate location>
+    <WKT>POINT(9.2163888888889 48.086666666667)</WKT>
+    <GND ID>4054930-6</GND ID>
+    <Freebase ID>/m/01jlln</Freebase ID>
+    <GeoNames ID>2832232</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104817</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Bielefeld</place_original>
+    <place_reconciled>Bielefeld</place_reconciled>
+    <place_wikidata_id>Q2112</place_wikidata_id>
+    <description_de>Großstadt in Nordrhein-Westfalen, Deutschland</description_de>
+    <description>city in Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/d/df/Sparrenburg_innovative_sights.JPG</img_url>
+    <coordinate location>52.016666666667,8.5166666666667</coordinate location>
+    <WKT>POINT(8.5166666666667 52.016666666667)</WKT>
+    <GND ID>4006510-8</GND ID>
+    <Freebase ID>/m/018m98</Freebase ID>
+    <GeoNames ID>2949186</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/417</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Bischofszell</place_original>
+    <place_reconciled>Bischofszell</place_reconciled>
+    <place_wikidata_id>Q64865</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/98/Bischofszell-Rathaus.jpg</img_url>
+    <coordinate location>47.499722222222,9.2333333333333</coordinate location>
+    <WKT>POINT(9.2333333333333 47.499722222222)</WKT>
+    <GND ID>4006957-6</GND ID>
+    <Freebase ID>/m/0g30fj</Freebase ID>
+    <GeoNames ID>8394414</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104815</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Blasewitz</place_original>
+    <place_reconciled>Blasewitz</place_reconciled>
+    <place_wikidata_id>Q8897</place_wikidata_id>
+    <description_de>Stadtteil der Landeshauptstadt Dresden, Sachsen, Deutschland</description_de>
+    <description>borough of Dresden, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/f5/Alexander-Frantz-Sternwarte_in_Blasewitz_3.jpg</img_url>
+    <coordinate location>51.052777777778,13.795833333333</coordinate location>
+    <WKT>POINT(13.795833333333 51.052777777778)</WKT>
+    <GND ID>5010169-9</GND ID>
+    <Freebase ID></Freebase ID>
+    <GeoNames ID>2948000</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/102882</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Böhmisch Rudoletz</place_original>
+    <place_reconciled>Český Rudolec</place_reconciled>
+    <place_wikidata_id>Q341258</place_wikidata_id>
+    <description_de>Gemeinde in Tschechien</description_de>
+    <description>Village in Jindřichův Hradec District of South Bohemian region</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/a/a1/Z%C3%A1mek_%C4%8Cesk%C3%BD_Rudolec_2007_celkov%C4%9B.jpg</img_url>
+    <coordinate location>49.068409484688,15.324382292306</coordinate location>
+    <WKT>POINT(15.324382292306 49.068409484688)</WKT>
+    <GND ID>1076805701</GND ID>
+    <Freebase ID>/m/07kb37y</Freebase ID>
+    <GeoNames ID>3077884</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/103720</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Bonn</place_original>
+    <place_reconciled>Bonn</place_reconciled>
+    <place_wikidata_id>Q586</place_wikidata_id>
+    <description_de>Großstadt in Nordrhein-Westfalen, ehemalige Hauptstadt der Bundesrepublik Deutschland</description_de>
+    <description>city in Germany, former capital</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/1e/Rathaus_Bonn_136_1-vzkh.jpg</img_url>
+    <coordinate location>50.733888888889,7.0997222222222</coordinate location>
+    <WKT>POINT(7.0997222222222 50.733888888889)</WKT>
+    <GND ID>4007666-0</GND ID>
+    <Freebase ID>/m/0150n</Freebase ID>
+    <GeoNames ID>2946447</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/444</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Braunau</place_original>
+    <place_reconciled>Braunau am Inn</place_reconciled>
+    <place_wikidata_id>Q131128</place_wikidata_id>
+    <description_de>Stadt in Österreich</description_de>
+    <description>municipality in Austria</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/29/Braunau_am_Inn.jpg</img_url>
+    <coordinate location>48.258333333333,13.033333333333</coordinate location>
+    <WKT>POINT(13.033333333333 48.258333333333)</WKT>
+    <GND ID>4008037-7</GND ID>
+    <Freebase ID>/m/0196c5</Freebase ID>
+    <GeoNames ID>2781520</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/818</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Breslau</place_original>
+    <place_reconciled>Wrocław</place_reconciled>
+    <place_wikidata_id>Q1799</place_wikidata_id>
+    <description_de>Stadt in Polen, Hauptstadt der Woiwodschaft Niederschlesien</description_de>
+    <description>city in Lower Silesian Voivodeship, Poland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/bb/Wroc%C5%82aw_Collage.png</img_url>
+    <coordinate location>51.10773,17.03533</coordinate location>
+    <WKT>POINT(17.03533 51.10773)</WKT>
+    <GND ID>4008216-7</GND ID>
+    <Freebase ID>/m/0845b</Freebase ID>
+    <GeoNames ID>7531292</GeoNames ID>
+    <TGN ID>7007601</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/445</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Bruchsal</place_original>
+    <place_reconciled>Bruchsal</place_reconciled>
+    <place_wikidata_id>Q7059</place_wikidata_id>
+    <description_de>Stadt im Landkreis Karlsruhe (Deutschland)</description_de>
+    <description>town in Baden-Württemberg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/9d/Bruchsal_%2823%29.jpg</img_url>
+    <coordinate location>49.133333333333,8.6</coordinate location>
+    <WKT>POINT(8.6 49.133333333333)</WKT>
+    <GND ID>4008388-3</GND ID>
+    <Freebase ID>/m/0452j1</Freebase ID>
+    <GeoNames ID>2943560</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/705</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Bruges</place_original>
+    <place_reconciled>Bruges</place_reconciled>
+    <place_wikidata_id>Q12994</place_wikidata_id>
+    <description_de>Stadt in Westflandern, Belgien</description_de>
+    <description>city in West Flanders, Belgium</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/2c/Bruges_view_from_the_belfry.JPG</img_url>
+    <coordinate location>51.209444444444,3.22</coordinate location>
+    <WKT>POINT(3.22 51.209444444444)</WKT>
+    <GND ID>4069688-1</GND ID>
+    <Freebase ID>/m/0k424</Freebase ID>
+    <GeoNames ID>2800931</GeoNames ID>
+    <TGN ID>7007867</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/793</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Budapest</place_original>
+    <place_reconciled>Budapest</place_reconciled>
+    <place_wikidata_id>Q1781</place_wikidata_id>
+    <description_de>Hauptstadt von Ungarn</description_de>
+    <description>capital city of Hungary</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/3/3e/Montage_of_Budapest.jpg</img_url>
+    <coordinate location>47.498333333333,19.040833333333</coordinate location>
+    <WKT>POINT(19.040833333333 47.498333333333)</WKT>
+    <GND ID>4008684-7</GND ID>
+    <Freebase ID>/m/095w_</Freebase ID>
+    <GeoNames ID>3054638</GeoNames ID>
+    <TGN ID>7017994</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/303</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Cassel</place_original>
+    <place_reconciled>Kassel</place_reconciled>
+    <place_wikidata_id>Q2865</place_wikidata_id>
+    <description_de>Großstadt in Hessen, Deutschland</description_de>
+    <description>city in Hesse, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/7/7c/Herkules_wasserspiele_1_ds_05_2006.JPG</img_url>
+    <coordinate location>51.315777777778,9.4979166666667</coordinate location>
+    <WKT>POINT(9.4979166666667 51.315777777778)</WKT>
+    <GND ID>4029869-3</GND ID>
+    <Freebase ID>/m/0bkv0</Freebase ID>
+    <GeoNames ID>2892518</GeoNames ID>
+    <TGN ID>7004431</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/254</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Catanzaro</place_original>
+    <place_reconciled>Catanzaro</place_reconciled>
+    <place_wikidata_id>Q3883</place_wikidata_id>
+    <description_de>italienische Gemeinde</description_de>
+    <description>Italian city and capital of the Calabria province</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/4b/Collage_-_Catanzaro.png</img_url>
+    <coordinate location>38.91,16.5875</coordinate location>
+    <WKT>POINT(16.5875 38.91)</WKT>
+    <GND ID>4229457-5</GND ID>
+    <Freebase ID>/m/046jpv</Freebase ID>
+    <GeoNames ID>6541858</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104847</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Charlottenburg</place_original>
+    <place_reconciled>Charlottenburg</place_reconciled>
+    <place_wikidata_id>Q162049</place_wikidata_id>
+    <description_de>Ortsteil von Berlin</description_de>
+    <description>locality of Berlin, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/42/Charlottenburg_Hohenzollern_2.jpg</img_url>
+    <coordinate location>52.516666666667,13.3</coordinate location>
+    <WKT>POINT(13.3 52.516666666667)</WKT>
+    <GND ID>4087306-7</GND ID>
+    <Freebase ID>/m/022nb8</Freebase ID>
+    <GeoNames ID>2940187</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/59</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Corfu</place_original>
+    <place_reconciled>Corfu</place_reconciled>
+    <place_wikidata_id>Q205832</place_wikidata_id>
+    <description_de>Hauptstadt der griechischen Insel und Gemeinde Korfu</description_de>
+    <description>Capital of the Greek island and municipality of Corfu</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/22/Platia_Dimarchiu.jpg</img_url>
+    <coordinate location>39.616666666667,19.916666666667</coordinate location>
+    <WKT>POINT(19.916666666667 39.616666666667)</WKT>
+    <GND ID>4192393-5</GND ID>
+    <Freebase ID>/m/09lgkz</Freebase ID>
+    <GeoNames ID>2463679</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/439</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Czernowitz</place_original>
+    <place_reconciled>Chernivtsi</place_reconciled>
+    <place_wikidata_id>Q157725</place_wikidata_id>
+    <description_de>Stadt in der Ukraine</description_de>
+    <description>city in Ukraine</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/5/5b/%D0%92%D0%B5%D1%87%D1%96%D1%80%D0%BD%D1%94_%D0%BC%D1%96%D1%81%D1%82%D0%BE.jpg</img_url>
+    <coordinate location>48.290833333333,25.934444444444</coordinate location>
+    <WKT>POINT(25.934444444444 48.290833333333)</WKT>
+    <GND ID>63628-9</GND ID>
+    <Freebase ID>/m/01_w5q</Freebase ID>
+    <GeoNames ID>710719</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104939</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Děčín</place_original>
+    <place_reconciled>Děčín</place_reconciled>
+    <place_wikidata_id>Q146307</place_wikidata_id>
+    <description_de>Stadt in Tschechien</description_de>
+    <description>town in Czech Republic</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/6/6c/Decin.JPG</img_url>
+    <coordinate location>50.773611111111,14.196111111111</coordinate location>
+    <WKT>POINT(14.196111111111 50.773611111111)</WKT>
+    <GND ID>4106190-1</GND ID>
+    <Freebase ID>/m/03r7t7</Freebase ID>
+    <GeoNames ID>3077244</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/38</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Den Haag</place_original>
+    <place_reconciled>The Hague</place_reconciled>
+    <place_wikidata_id>Q36600</place_wikidata_id>
+    <description_de>Hauptstadt der Provinz Südholland, Parlaments- und Regierungssitz der Niederlande</description_de>
+    <description>municipality in the Netherlands, seat of the Dutch government</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/cf/Het_Plein_2012.jpg</img_url>
+    <coordinate location>52.084166666667,4.3175</coordinate location>
+    <WKT>POINT(4.3175 52.084166666667)</WKT>
+    <GND ID>4011446-6</GND ID>
+    <Freebase ID>/m/07g0_</Freebase ID>
+    <GeoNames ID>2747372</GeoNames ID>
+    <TGN ID>7006810</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/800</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Dresden</place_original>
+    <place_reconciled>Dresden</place_reconciled>
+    <place_wikidata_id>Q1731</place_wikidata_id>
+    <description_de>Landeshauptstadt des Freistaates Sachsen, Deutschland</description_de>
+    <description>capital city of the Free State of Saxony in Germany</description>
+    <img_url></img_url>
+    <coordinate location>51.049258333333,13.738361111111</coordinate location>
+    <WKT>POINT(13.738361111111 51.049258333333)</WKT>
+    <GND ID>4012995-0</GND ID>
+    <Freebase ID>/m/09b9m</Freebase ID>
+    <GeoNames ID>2935020</GeoNames ID>
+    <TGN ID>7004455</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/264</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Ebenhausen</place_original>
+    <place_reconciled>Baar-Ebenhausen</place_reconciled>
+    <place_wikidata_id>Q490463</place_wikidata_id>
+    <description_de>Gemeinde in Deutschland</description_de>
+    <description>municipality of Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/9b/Baar-kirche.jpg</img_url>
+    <coordinate location>48.666666666667,11.433333333333</coordinate location>
+    <WKT>POINT(11.433333333333 48.666666666667)</WKT>
+    <GND ID>4702174-3</GND ID>
+    <Freebase ID>/m/02q6w2p</Freebase ID>
+    <GeoNames ID>3208325</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/412</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Edgbaston-Birmingham</place_original>
+    <place_reconciled>Edgbaston</place_reconciled>
+    <place_wikidata_id>Q3047556</place_wikidata_id>
+    <description_de>Stadtteil von Birmingham, England</description_de>
+    <description>area in the city of Birmingham, England</description>
+    <img_url></img_url>
+    <coordinate location>52.45805,-1.9190472222222</coordinate location>
+    <WKT>POINT(-1.9190472222222 52.45805)</WKT>
+    <GND ID>5114525-X</GND ID>
+    <Freebase ID>/m/02n7wd</Freebase ID>
+    <GeoNames ID>2650236</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/279</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Florence</place_original>
+    <place_reconciled>Florence</place_reconciled>
+    <place_wikidata_id>Q2044</place_wikidata_id>
+    <description_de>Hauptstadt der Toskana und der Provinz Florenz</description_de>
+    <description>Italian city, located in Tuscany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/6/63/Collage_Firenze.jpg</img_url>
+    <coordinate location>43.771388888889,11.254166666667</coordinate location>
+    <WKT>POINT(11.254166666667 43.771388888889)</WKT>
+    <GND ID>4017581-9</GND ID>
+    <Freebase ID>/m/031y2</Freebase ID>
+    <GeoNames ID>6542285</GeoNames ID>
+    <TGN ID>7000457</TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/2520</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Florenz</place_original>
+    <place_reconciled>Florence</place_reconciled>
+    <place_wikidata_id>Q2044</place_wikidata_id>
+    <description_de>Hauptstadt der Toskana und der Provinz Florenz</description_de>
+    <description>Italian city, located in Tuscany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/6/63/Collage_Firenze.jpg</img_url>
+    <coordinate location>43.771388888889,11.254166666667</coordinate location>
+    <WKT>POINT(11.254166666667 43.771388888889)</WKT>
+    <GND ID>4017581-9</GND ID>
+    <Freebase ID>/m/031y2</Freebase ID>
+    <GeoNames ID>6542285</GeoNames ID>
+    <TGN ID>7000457</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/261</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Francoforte sul Meno</place_original>
+    <place_reconciled>Frankfurt</place_reconciled>
+    <place_wikidata_id>Q1794</place_wikidata_id>
+    <description_de>Großstadt in Hessen</description_de>
+    <description>city in Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/d/d7/Skyline_Frankfurt_am_Main_2015.jpg</img_url>
+    <coordinate location>50.113611111111,8.6797222222222</coordinate location>
+    <WKT>POINT(8.6797222222222 50.113611111111)</WKT>
+    <GND ID>4018118-2</GND ID>
+    <Freebase ID>/m/02z0j</Freebase ID>
+    <GeoNames ID>2925533</GeoNames ID>
+    <TGN ID>7005293</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/385</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Frankfurt a. d. Oder</place_original>
+    <place_reconciled>Frankfurt (Oder)</place_reconciled>
+    <place_wikidata_id>Q4024</place_wikidata_id>
+    <description_de>kreisfreie Stadt in Brandenburg, Deutschland</description_de>
+    <description>town in Brandenburg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/5/59/01_Luftbild_Frankfurt_oder_Slubice_09072011.jpg</img_url>
+    <coordinate location>52.35,14.55</coordinate location>
+    <WKT>POINT(14.55 52.35)</WKT>
+    <GND ID>4018122-4</GND ID>
+    <Freebase ID>/m/0p828</Freebase ID>
+    <GeoNames ID>2925535</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/313</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Frankfurt am Main</place_original>
+    <place_reconciled>Frankfurt</place_reconciled>
+    <place_wikidata_id>Q1794</place_wikidata_id>
+    <description_de>Großstadt in Hessen</description_de>
+    <description>city in Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/d/d7/Skyline_Frankfurt_am_Main_2015.jpg</img_url>
+    <coordinate location>50.113611111111,8.6797222222222</coordinate location>
+    <WKT>POINT(8.6797222222222 50.113611111111)</WKT>
+    <GND ID>4018118-2</GND ID>
+    <Freebase ID>/m/02z0j</Freebase ID>
+    <GeoNames ID>2925533</GeoNames ID>
+    <TGN ID>7005293</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/2594</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Frauenfeld</place_original>
+    <place_reconciled>Frauenfeld</place_reconciled>
+    <place_wikidata_id>Q68120</place_wikidata_id>
+    <description_de>Schweizer Gemeinde und Hauptort des Kantons Thurgau</description_de>
+    <description>town in, and capital of, the Swiss canton of Thurgau</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/fa/20080507_1708MESZ_Schloss_Frauenfeld_1680x1050_HDR.jpg</img_url>
+    <coordinate location>47.555833333333,8.8963888888889</coordinate location>
+    <WKT>POINT(8.8963888888889 47.555833333333)</WKT>
+    <GND ID>4018220-4</GND ID>
+    <Freebase ID>/m/05sx7q</Freebase ID>
+    <GeoNames ID>2660727</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/821</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Freiburg im Breisgau</place_original>
+    <place_reconciled>Freiburg im Breisgau</place_reconciled>
+    <place_wikidata_id>Q2833</place_wikidata_id>
+    <description_de>Großstadt in Baden-Württemberg, Deutschland</description_de>
+    <description>large city in Baden-Württemberg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/3/39/Freiburger_M%C3%BCnster.jpg</img_url>
+    <coordinate location>47.994722222222,7.8497222222222</coordinate location>
+    <WKT>POINT(7.8497222222222 47.994722222222)</WKT>
+    <GND ID>4018272-1</GND ID>
+    <Freebase ID>/m/0ptj2</Freebase ID>
+    <GeoNames ID>2925177</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/422</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Fusio</place_original>
+    <place_reconciled>Lavizzara</place_reconciled>
+    <place_wikidata_id>Q68005</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Vallemaggia, canton of Ticino, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/3/39/Lavizzara_Prato-Sornico.jpg</img_url>
+    <coordinate location>46.433333333333,8.65</coordinate location>
+    <WKT>POINT(8.65 46.433333333333)</WKT>
+    <GND ID>7578969-3</GND ID>
+    <Freebase ID>/m/0gxmr_</Freebase ID>
+    <GeoNames ID>7286292</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/441</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Gemmingen</place_original>
+    <place_reconciled>Gemmingen</place_reconciled>
+    <place_wikidata_id>Q518786</place_wikidata_id>
+    <description_de>Gemeinde in Deutschland</description_de>
+    <description>municipality in Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/e/e4/Rathaus_Gemmingen.jpg</img_url>
+    <coordinate location>49.15,8.9833333333333</coordinate location>
+    <WKT>POINT(8.9833333333333 49.15)</WKT>
+    <GND ID>4020061-9</GND ID>
+    <Freebase ID>/m/02p_pl0</Freebase ID>
+    <GeoNames ID>2921389</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/416</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Genève</place_original>
+    <place_reconciled>Geneva</place_reconciled>
+    <place_wikidata_id>Q71</place_wikidata_id>
+    <description_de>Schweizer Stadt und Hauptort des Kantons Genf</description_de>
+    <description>city in Switzerland and capital of its canton</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/3/3b/Geneva_from_Mount_Sal%C3%A8ve.jpg</img_url>
+    <coordinate location>46.2,6.15</coordinate location>
+    <WKT>POINT(6.15 46.2)</WKT>
+    <GND ID>4020137-5</GND ID>
+    <Freebase ID>/m/03902</Freebase ID>
+    <GeoNames ID>7285902</GeoNames ID>
+    <TGN ID>7007279</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/814</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Genova</place_original>
+    <place_reconciled>Genoa</place_reconciled>
+    <place_wikidata_id>Q1449</place_wikidata_id>
+    <description_de>Italienische Großstadt im Nordwesten Italiens</description_de>
+    <description>Italian city</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/48/Genova-DSCF7470.JPG</img_url>
+    <coordinate location>44.407186111111,8.9339833333333</coordinate location>
+    <WKT>POINT(8.9339833333333 44.407186111111)</WKT>
+    <GND ID>4020185-5</GND ID>
+    <Freebase ID>/m/0hknf</Freebase ID>
+    <GeoNames ID>6542282</GeoNames ID>
+    <TGN ID>7008546</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/48</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Genua</place_original>
+    <place_reconciled>Genoa</place_reconciled>
+    <place_wikidata_id>Q1449</place_wikidata_id>
+    <description_de>Italienische Großstadt im Nordwesten Italiens</description_de>
+    <description>Italian city</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/48/Genova-DSCF7470.JPG</img_url>
+    <coordinate location>44.407186111111,8.9339833333333</coordinate location>
+    <WKT>POINT(8.9339833333333 44.407186111111)</WKT>
+    <GND ID>4020185-5</GND ID>
+    <Freebase ID>/m/0hknf</Freebase ID>
+    <GeoNames ID>6542282</GeoNames ID>
+    <TGN ID>7008546</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/2047</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Giessbach</place_original>
+    <place_reconciled>Grandhotel Giessbach</place_reconciled>
+    <place_wikidata_id>Q14558102</place_wikidata_id>
+    <description_de><?xml version='1.0' encoding='UTF-8'?>\n<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+\t<head>
+		<variable name='value'/>
+	</head>
+	<results>
+	</results>
+</sparql>
+</description_de>
+    <description><?xml version='1.0' encoding='UTF-8'?>\n<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+\t<head>
+		<variable name='value'/>
+	</head>
+	<results>
+	</results>
+</sparql>
+</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/c4/Grandhotel_Giessbach.jpg</img_url>
+    <coordinate location>46.735422,8.023439</coordinate location>
+    <WKT>POINT(8.023439 46.735422)</WKT>
+    <GND ID>4808793-2</GND ID>
+    <Freebase ID></Freebase ID>
+    <GeoNames ID></GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104887</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Gotha</place_original>
+    <place_reconciled>Gotha</place_reconciled>
+    <place_wikidata_id>Q6986</place_wikidata_id>
+    <description_de>Stadt in Thüringen</description_de>
+    <description>town in Thuringia, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/6/6f/Gotha_Blick_vom_B%C3%BCrgerturm.jpg</img_url>
+    <coordinate location>50.948888888889,10.718333333333</coordinate location>
+    <WKT>POINT(10.718333333333 50.948888888889)</WKT>
+    <GND ID>4021652-4</GND ID>
+    <Freebase ID>/m/035bpp</Freebase ID>
+    <GeoNames ID>2918752</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/47</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Göttibach b. Thun</place_original>
+    <place_reconciled>Thun</place_reconciled>
+    <place_wikidata_id>Q68978</place_wikidata_id>
+    <description_de>Stadt im Kanton Bern in der Schweiz</description_de>
+    <description>city in the canton of Bern, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/8/80/1_thun_castle_view_2012.jpg</img_url>
+    <coordinate location>46.759,7.63</coordinate location>
+    <WKT>POINT(7.63 46.759)</WKT>
+    <GND ID>4059991-7</GND ID>
+    <Freebase ID>/m/025379</Freebase ID>
+    <GeoNames ID>7287306</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/805</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Göttingen</place_original>
+    <place_reconciled>Göttingen</place_reconciled>
+    <place_wikidata_id>Q3033</place_wikidata_id>
+    <description_de>Großstadt in Niedersachsen, Deutschland</description_de>
+    <description>Large city in Lower Saxony, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/8/8a/Goettingen_Marktplatz_Oct06_Antilived.jpg</img_url>
+    <coordinate location>51.533888888889,9.9355555555556</coordinate location>
+    <WKT>POINT(9.9355555555556 51.533888888889)</WKT>
+    <GND ID>4021477-1</GND ID>
+    <Freebase ID>/m/0bj40</Freebase ID>
+    <GeoNames ID>2918632</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/442</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Haida</place_original>
+    <place_reconciled>Nový Bor</place_reconciled>
+    <place_wikidata_id>Q1000086</place_wikidata_id>
+    <description_de>Gemeinde in Tschechien</description_de>
+    <description>town in the Liberec Region of the Czech Republic</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/93/Luftbild_von_Nov%C3%BD_Bor.JPG</img_url>
+    <coordinate location>50.757681178047,14.555662165889</coordinate location>
+    <WKT>POINT(14.555662165889 50.757681178047)</WKT>
+    <GND ID>4304888-2</GND ID>
+    <Freebase ID>/m/07h8_d</Freebase ID>
+    <GeoNames ID>3069381</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/795</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Hallau</place_original>
+    <place_reconciled>Hallau</place_reconciled>
+    <place_wikidata_id>Q69172</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/0/06/Hallau-Dorf.jpg</img_url>
+    <coordinate location>47.6966,8.4578</coordinate location>
+    <WKT>POINT(8.4578 47.6966)</WKT>
+    <GND ID>4398622-5</GND ID>
+    <Freebase ID>/m/0fvsnx</Freebase ID>
+    <GeoNames ID>7286027</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/424</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Hamburg</place_original>
+    <place_reconciled>Hamburg</place_reconciled>
+    <place_wikidata_id>Q1055</place_wikidata_id>
+    <description_de>Stadtstaat und ein Land der Bundesrepublik Deutschland</description_de>
+    <description>city in Germany, city state and federal state</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/d/dd/Hamburg_Binnenalster_%26_Rathaus.jpg</img_url>
+    <coordinate location>53.55,10</coordinate location>
+    <WKT>POINT(10 53.55)</WKT>
+    <GND ID>4023118-5</GND ID>
+    <Freebase ID>/m/03hrz</Freebase ID>
+    <GeoNames ID>2911297</GeoNames ID>
+    <TGN ID>7003673</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/310</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Hannover</place_original>
+    <place_reconciled>Hanover</place_reconciled>
+    <place_wikidata_id>Q1715</place_wikidata_id>
+    <description_de>Hauptstadt von Niedersachsen, Deutschland</description_de>
+    <description>capital city of the German federated state of Lower Saxony</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/9a/Neues_Rathaus_Hannover_M%C3%A4rz_2010.jpg</img_url>
+    <coordinate location>52.374444444444,9.7386111111111</coordinate location>
+    <WKT>POINT(9.7386111111111 52.374444444444)</WKT>
+    <GND ID>4023349-2</GND ID>
+    <Freebase ID>/m/03pbf</Freebase ID>
+    <GeoNames ID>2910831</GeoNames ID>
+    <TGN ID>7013260</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/443</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Heidelberg</place_original>
+    <place_reconciled>Heidelberg</place_reconciled>
+    <place_wikidata_id>Q2966</place_wikidata_id>
+    <description_de>Großstadt in Baden-Württemberg, Deutschland</description_de>
+    <description>city in Baden-Württemberg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/b4/Heidelberg_corr.jpg</img_url>
+    <coordinate location>49.412222222222,8.71</coordinate location>
+    <WKT>POINT(8.71 49.412222222222)</WKT>
+    <GND ID>4023996-2</GND ID>
+    <Freebase ID>/m/0cm5m</Freebase ID>
+    <GeoNames ID>2907911</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/448</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Helmstedt</place_original>
+    <place_reconciled>Helmstedt</place_reconciled>
+    <place_wikidata_id>Q486562</place_wikidata_id>
+    <description_de>Kreisstadt des Landkreises Helmstedt</description_de>
+    <description>municipality of Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/5/52/Juleum_Helmstedt.jpg</img_url>
+    <coordinate location>52.228055555556,11.010555555556</coordinate location>
+    <WKT>POINT(11.010555555556 52.228055555556)</WKT>
+    <GND ID>4024344-8</GND ID>
+    <Freebase ID>/m/033npq</Freebase ID>
+    <GeoNames ID>2906676</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/60</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Herren-Chiemsee</place_original>
+    <place_reconciled>Herreninsel</place_reconciled>
+    <place_wikidata_id>Q694888</place_wikidata_id>
+    <description_de>größte Insel im Chiemsee</description_de>
+    <description>238 hectare island in Bavaria's largest lake, the Chiemsee</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/a/aa/Aerials_Bavaria_16.06.2006_11-39-31.jpg</img_url>
+    <coordinate location>47.860556,12.398056</coordinate location>
+    <WKT>POINT(12.398056 47.860556)</WKT>
+    <GND ID>4024575-5</GND ID>
+    <Freebase ID>/m/0gbg8m</Freebase ID>
+    <GeoNames ID>2905641</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/434</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Herzogenbuchsee</place_original>
+    <place_reconciled>Herzogenbuchsee</place_reconciled>
+    <place_wikidata_id>Q67499</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/bd/Herzogenbuchsee_Luft_2017.jpg</img_url>
+    <coordinate location>47.18838,7.70619</coordinate location>
+    <WKT>POINT(7.70619 47.18838)</WKT>
+    <GND ID>4124691-3</GND ID>
+    <Freebase ID>/m/030h5k</Freebase ID>
+    <GeoNames ID>7286078</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/305</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Hottingen</place_original>
+    <place_reconciled>Hottingen</place_reconciled>
+    <place_wikidata_id>Q693454</place_wikidata_id>
+    <description_de>Quartier der Stadt Zürich, Schweiz</description_de>
+    <description>quarter of the city of Zurich, Switzerland</description>
+    <img_url></img_url>
+    <coordinate location>47.3681,8.5604</coordinate location>
+    <WKT>POINT(8.5604 47.3681)</WKT>
+    <GND ID>4398622-5</GND ID>
+    <Freebase ID></Freebase ID>
+    <GeoNames ID>6295507</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/790</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Imola</place_original>
+    <place_reconciled>Imola</place_reconciled>
+    <place_wikidata_id>Q50195</place_wikidata_id>
+    <description_de>Stadt in Oberitalien</description_de>
+    <description>town and comune in Italy</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/a/a4/Rocca_Sforzesca_-_Imola.jpg</img_url>
+    <coordinate location>44.353444388889,11.714373194444</coordinate location>
+    <WKT>POINT(11.714373194444 44.353444388889)</WKT>
+    <GND ID>4235717-2</GND ID>
+    <Freebase ID>/m/03pnyr</Freebase ID>
+    <GeoNames ID>6541032</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/377</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Innsbruck</place_original>
+    <place_reconciled>Innsbruck</place_reconciled>
+    <place_wikidata_id>Q1735</place_wikidata_id>
+    <description_de>Hauptstadt von Tirol</description_de>
+    <description>federated state capital of Tyrol, Austria</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/8/8d/Panorama_Innsbruck_1.jpg</img_url>
+    <coordinate location>47.266666666667,11.383333333333</coordinate location>
+    <WKT>POINT(11.383333333333 47.266666666667)</WKT>
+    <GND ID>4027096-8</GND ID>
+    <Freebase ID>/m/0fhmy</Freebase ID>
+    <GeoNames ID>2775216</GeoNames ID>
+    <TGN ID>7003249</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/20</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>İstanbul</place_original>
+    <place_reconciled>Istanbul</place_reconciled>
+    <place_wikidata_id>Q406</place_wikidata_id>
+    <description_de>türkische Stadt am Bosporus</description_de>
+    <description>largest city in Turkey</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/5/5e/Istanbul2010.jpg</img_url>
+    <coordinate location>41.01,28.960277777778</coordinate location>
+    <WKT>POINT(28.960277777778 41.01)</WKT>
+    <GND ID>4027821-9</GND ID>
+    <Freebase ID>/m/09949m</Freebase ID>
+    <GeoNames ID>745044</GeoNames ID>
+    <TGN ID>7002473</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/104795</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Jena</place_original>
+    <place_reconciled>Jena</place_reconciled>
+    <place_wikidata_id>Q3150</place_wikidata_id>
+    <description_de>Großstadt an der Saale in Thüringen, Deutschland</description_de>
+    <description>city in Thuringia, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/6/6d/Zentrum_Jenas_2008-05-24.JPG</img_url>
+    <coordinate location>50.927222222222,11.586388888889</coordinate location>
+    <WKT>POINT(11.586388888889 50.927222222222)</WKT>
+    <GND ID>4028557-1</GND ID>
+    <Freebase ID>/m/018_7x</Freebase ID>
+    <GeoNames ID>2895042</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/40</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Karlsruhe</place_original>
+    <place_reconciled>Karlsruhe</place_reconciled>
+    <place_wikidata_id>Q1040</place_wikidata_id>
+    <description_de>Großstadt in Baden-Württemberg</description_de>
+    <description>German city in the state of Baden-Württemberg</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/99/Karlsruhe-Schloss-meph666-2005-Apr-22.jpg</img_url>
+    <coordinate location>49.016666666667,8.4</coordinate location>
+    <WKT>POINT(8.4 49.016666666667)</WKT>
+    <GND ID>4029713-5</GND ID>
+    <Freebase ID>/m/0qb1z</Freebase ID>
+    <GeoNames ID>2892794</GeoNames ID>
+    <TGN ID>7004424</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/27</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Kiel</place_original>
+    <place_reconciled>Kiel</place_reconciled>
+    <place_wikidata_id>Q1707</place_wikidata_id>
+    <description_de>Landeshauptstadt von Schleswig-Holstein, Deutschland</description_de>
+    <description>city in Schleswig-Holstein, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/6/62/KielerStadtzentrumLuftaufnahme.jpg</img_url>
+    <coordinate location>54.323333333333,10.139444444444</coordinate location>
+    <WKT>POINT(10.139444444444 54.323333333333)</WKT>
+    <GND ID>4030481-4</GND ID>
+    <Freebase ID>/m/0g7pm</Freebase ID>
+    <GeoNames ID>2891122</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/257</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Kilchberg (Zürich)</place_original>
+    <place_reconciled>Kilchberg</place_reconciled>
+    <place_wikidata_id>Q66633</place_wikidata_id>
+    <description_de>Gemeinde im Kanton Zürich in der Schweiz</description_de>
+    <description>municipality in the canton of Zürich, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/d/da/Kilchberg.JPG</img_url>
+    <coordinate location>47.324722222222,8.5491666666667</coordinate location>
+    <WKT>POINT(8.5491666666667 47.324722222222)</WKT>
+    <GND ID>4097898-9</GND ID>
+    <Freebase ID>/m/04ff98</Freebase ID>
+    <GeoNames ID>2660161</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104948</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Köln</place_original>
+    <place_reconciled>Cologne</place_reconciled>
+    <place_wikidata_id>Q365</place_wikidata_id>
+    <description_de>Metropole in Nordrhein-Westfalen, Deutschland</description_de>
+    <description>city in North Rhine-Westphalia, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/be/Stadtbild_K%C3%B6ln_%2850MP%29.jpg</img_url>
+    <coordinate location>50.942222222222,6.9577777777778</coordinate location>
+    <WKT>POINT(6.9577777777778 50.942222222222)</WKT>
+    <GND ID>4031483-2</GND ID>
+    <Freebase ID>/m/01v8c</Freebase ID>
+    <GeoNames ID>2886242</GeoNames ID>
+    <TGN ID>7004446</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/425</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Königsberg</place_original>
+    <place_reconciled>Königsberg</place_reconciled>
+    <place_wikidata_id>Q4120832</place_wikidata_id>
+    <description_de>Königliche Haupt- und Residenzstadt in Preußen</description_de>
+    <description>capital city in Prussia</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/ba/K%C3%B6nigsberg_Castle.jpg</img_url>
+    <coordinate location>54.716666666667,20.516666666667</coordinate location>
+    <WKT>POINT(20.516666666667 54.716666666667)</WKT>
+    <GND ID>4031541-1</GND ID>
+    <Freebase ID>/m/03m7lkk</Freebase ID>
+    <GeoNames ID>554234</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/253</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Krakau</place_original>
+    <place_reconciled>Kraków</place_reconciled>
+    <place_wikidata_id>Q31487</place_wikidata_id>
+    <description_de>Stadt in Polen</description_de>
+    <description>city in Lesser Poland Voivodeship, Poland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/be/Collage_of_views_of_Cracow.PNG</img_url>
+    <coordinate location>50.061388888889,19.937222222222</coordinate location>
+    <WKT>POINT(19.937222222222 50.061388888889)</WKT>
+    <GND ID>4073760-3</GND ID>
+    <Freebase ID>/m/0491y</Freebase ID>
+    <GeoNames ID>6690154</GeoNames ID>
+    <TGN ID>7007652</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/306</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Krems an der Donau</place_original>
+    <place_reconciled>Krems an der Donau</place_reconciled>
+    <place_wikidata_id>Q131266</place_wikidata_id>
+    <description_de>Stadt in Österreich</description_de>
+    <description>city in Austria</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/48/Krems_Panorama.jpg</img_url>
+    <coordinate location>48.416666666667,15.616666666667</coordinate location>
+    <WKT>POINT(15.616666666667 48.416666666667)</WKT>
+    <GND ID>4033043-6</GND ID>
+    <Freebase ID>/m/02hk7f</Freebase ID>
+    <GeoNames ID>2773547</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104770</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Kressbronn </place_original>
+    <place_reconciled>Kressbronn am Bodensee</place_reconciled>
+    <place_wikidata_id>Q557658</place_wikidata_id>
+    <description_de>Gemeinde in Deutschland</description_de>
+    <description>municipality in Baden-Württemberg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/e/e9/Kressbronn_church_and_chapell.jpg</img_url>
+    <coordinate location>47.595833333333,9.6</coordinate location>
+    <WKT>POINT(9.6 47.595833333333)</WKT>
+    <GND ID>4320686-4</GND ID>
+    <Freebase ID>/m/02p_g7v</Freebase ID>
+    <GeoNames ID>2884344</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/449</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Kreuzburg (Oberschlesien)</place_original>
+    <place_reconciled>Kluczbork</place_reconciled>
+    <place_wikidata_id>Q79322</place_wikidata_id>
+    <description_de>Stadt in Polen</description_de>
+    <description>city of Poland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/f0/Kluczbork_Rynek.JPG</img_url>
+    <coordinate location>50.983333333333,18.216666666667</coordinate location>
+    <WKT>POINT(18.216666666667 50.983333333333)</WKT>
+    <GND ID>4097069-3</GND ID>
+    <Freebase ID>/m/0229bc</Freebase ID>
+    <GeoNames ID>3096003</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104755</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>L'Isle-Adam</place_original>
+    <place_reconciled>L'Isle-Adam</place_reconciled>
+    <place_wikidata_id>Q911450</place_wikidata_id>
+    <description_de>französische Gemeinde</description_de>
+    <description>commune in Val-d'Oise, France</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/5/5d/L%27Isle-Adam_%2895%29%2C_pavillon_chinois_de_Cassan.jpg</img_url>
+    <coordinate location>49.111111111111,2.2227777777778</coordinate location>
+    <WKT>POINT(2.2227777777778 49.111111111111)</WKT>
+    <GND ID>4577885-1</GND ID>
+    <Freebase ID>/m/03c91vk</Freebase ID>
+    <GeoNames ID>6614253</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/390</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Lago Maggiore</place_original>
+    <place_reconciled>Lake Maggiore</place_reconciled>
+    <place_wikidata_id>Q14379</place_wikidata_id>
+    <description_de>See in der Schweiz und Italien</description_de>
+    <description>lake in Italy and Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/e/e4/Lago_Maggiore_Traghetto.JPG</img_url>
+    <coordinate location>45.95,8.6333333333333</coordinate location>
+    <WKT>POINT(8.6333333333333 45.95)</WKT>
+    <GND ID>4034092-2</GND ID>
+    <Freebase ID>/m/034mxc</Freebase ID>
+    <GeoNames ID>2659792</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/456</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Lahr</place_original>
+    <place_reconciled>Lahr/Schwarzwald</place_reconciled>
+    <place_wikidata_id>Q7039</place_wikidata_id>
+    <description_de>Stadt in Deutschland</description_de>
+    <description>city in western Baden-Württemberg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/d/d5/Kuhbach_b._Lahr_-_Ortsansicht_mit_Pfarrkirche_-_2010-02-20_%28Landschaftsbild%29.jpg</img_url>
+    <coordinate location>48.339166666667,7.8722222222222</coordinate location>
+    <WKT>POINT(7.8722222222222 48.339166666667)</WKT>
+    <GND ID>4034109-4</GND ID>
+    <Freebase ID>/m/04pnbl</Freebase ID>
+    <GeoNames ID>2881885</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/127</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Laufenburg</place_original>
+    <place_reconciled>Laufenburg (Baden)</place_reconciled>
+    <place_wikidata_id>Q539801</place_wikidata_id>
+    <description_de>Stadt in Deutschland</description_de>
+    <description>municipality in Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/44/Laufenburg%28baden%29.jpg</img_url>
+    <coordinate location>47.565555555556,8.0647222222222</coordinate location>
+    <WKT>POINT(8.0647222222222 47.565555555556)</WKT>
+    <GND ID>4269481-4</GND ID>
+    <Freebase ID>/m/085qr1</Freebase ID>
+    <GeoNames ID>6559168</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/429</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Lausanne</place_original>
+    <place_reconciled>Lausanne</place_reconciled>
+    <place_wikidata_id>Q807</place_wikidata_id>
+    <description_de>Schweizer Stadt und Hauptstadt des Kantons Waadt</description_de>
+    <description>capital city of the Swiss Canton of Vaud</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/b7/Lausanne_img_0585.jpg</img_url>
+    <coordinate location>46.533333333333,6.6333333333333</coordinate location>
+    <WKT>POINT(6.6333333333333 46.533333333333)</WKT>
+    <GND ID>4034750-3</GND ID>
+    <Freebase ID>/m/04qdj</Freebase ID>
+    <GeoNames ID>7286283</GeoNames ID>
+    <TGN ID>7007299</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/437</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Leipzig</place_original>
+    <place_reconciled>Leipzig</place_reconciled>
+    <place_wikidata_id>Q2079</place_wikidata_id>
+    <description_de>Großstadt in Sachsen, Deutschland</description_de>
+    <description>city in Saxony, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/0/06/V%C3%B6lki_fullsize.jpg</img_url>
+    <coordinate location>51.333333333333,12.383333333333</coordinate location>
+    <WKT>POINT(12.383333333333 51.333333333333)</WKT>
+    <GND ID>4035206-7</GND ID>
+    <Freebase ID>/m/04kf4</Freebase ID>
+    <GeoNames ID>2879139</GeoNames ID>
+    <TGN ID>7012329</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/68</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Lenzburg</place_original>
+    <place_reconciled>Lenzburg</place_reconciled>
+    <place_wikidata_id>Q69433</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/fa/Lenzburg_metzgplatz.jpg</img_url>
+    <coordinate location>47.3875,8.1802777777778</coordinate location>
+    <WKT>POINT(8.1802777777778 47.3875)</WKT>
+    <GND ID>4035353-9</GND ID>
+    <Freebase ID>/m/03x_gg</Freebase ID>
+    <GeoNames ID>7286318</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/798</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Lesa</place_original>
+    <place_reconciled>Lesa</place_reconciled>
+    <place_wikidata_id>Q22479</place_wikidata_id>
+    <description_de>italienische Gemeinde</description_de>
+    <description>Italian comune</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/9d/Solcio_Panorama.JPG</img_url>
+    <coordinate location>45.833333333333,8.5666666666667</coordinate location>
+    <WKT>POINT(8.5666666666667 45.833333333333)</WKT>
+    <GND ID>4445517-3</GND ID>
+    <Freebase ID>/m/0g8t9v</Freebase ID>
+    <GeoNames ID>6541847</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/455</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Lichtenthal</place_original>
+    <place_reconciled>Lichtental</place_reconciled>
+    <place_wikidata_id>Q896509</place_wikidata_id>
+    <description_de>Stadtteil von Baden-Baden, Baden-Württemberg, Deutschland</description_de>
+    <description>borough of Baden-Baden, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/1b/Baden-Baden-Lichtental_Bonifatiuskirche_03_von_Sueden-gje.jpg</img_url>
+    <coordinate location>48.7439,8.26083</coordinate location>
+    <WKT>POINT(8.26083 48.7439)</WKT>
+    <GND ID>4753847-8</GND ID>
+    <Freebase ID></Freebase ID>
+    <GeoNames ID></GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/360</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Lido</place_original>
+    <place_reconciled>Lido</place_reconciled>
+    <place_wikidata_id>Q18503363</place_wikidata_id>
+    <description_de>Siedlung in Italien</description_de>
+    <description><?xml version='1.0' encoding='UTF-8'?>\n<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+\t<head>
+		<variable name='value'/>
+	</head>
+	<results>
+	</results>
+</sparql>
+</description>
+    <img_url></img_url>
+    <coordinate location>45.4105,12.36649</coordinate location>
+    <WKT>POINT(12.36649 45.4105)</WKT>
+    <GND ID>4533980-6</GND ID>
+    <Freebase ID></Freebase ID>
+    <GeoNames ID>3174748</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/410</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Liestal</place_original>
+    <place_reconciled>Liestal</place_reconciled>
+    <place_wikidata_id>Q68972</place_wikidata_id>
+    <description_de>Schweizer Gemeinde und Hauptort des Kantons Basel-Landschaft</description_de>
+    <description>town in, and capital of, the Swiss canton of Basel-Country</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/2d/Vorstadt-2000.jpg</img_url>
+    <coordinate location>47.483888888889,7.735</coordinate location>
+    <WKT>POINT(7.735 47.483888888889)</WKT>
+    <GND ID>4099638-4</GND ID>
+    <Freebase ID>/m/01h80y</Freebase ID>
+    <GeoNames ID>7286349</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/799</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Lindau</place_original>
+    <place_reconciled>Lindau</place_reconciled>
+    <place_wikidata_id>Q153969</place_wikidata_id>
+    <description_de>Stadt am Bodensee in Bayern, Deutschland</description_de>
+    <description>town in Bavaria, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/28/LindauInsel.jpg</img_url>
+    <coordinate location>47.545833333333,9.6838888888889</coordinate location>
+    <WKT>POINT(9.6838888888889 47.545833333333)</WKT>
+    <GND ID>4074242-8</GND ID>
+    <Freebase ID>/m/01jq_7</Freebase ID>
+    <GeoNames ID>2877550</GeoNames ID>
+    <TGN ID>1040126</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/450</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>London</place_original>
+    <place_reconciled>London</place_reconciled>
+    <place_wikidata_id>Q84</place_wikidata_id>
+    <description_de>Hauptstadt des Vereinigten Königreichs</description_de>
+    <description>capital and largest city of the United Kingdom</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/fa/London_skyline.JPG</img_url>
+    <coordinate location>51.507222222222,-0.1275</coordinate location>
+    <WKT>POINT(-0.1275 51.507222222222)</WKT>
+    <GND ID>4074335-4</GND ID>
+    <Freebase ID>/m/04jpl</Freebase ID>
+    <GeoNames ID>2643743</GeoNames ID>
+    <TGN ID>7011781</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/266</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Lörrach</place_original>
+    <place_reconciled>Lörrach</place_reconciled>
+    <place_wikidata_id>Q6855</place_wikidata_id>
+    <description_de>Stadt in Deutschland</description_de>
+    <description>city in southwest Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/b7/Aerial_View_-_L%C3%B6rrach.jpg</img_url>
+    <coordinate location>47.615555555556,7.6613888888889</coordinate location>
+    <WKT>POINT(7.6613888888889 47.615555555556)</WKT>
+    <GND ID>4036147-0</GND ID>
+    <Freebase ID>/m/02bdx4</Freebase ID>
+    <GeoNames ID>2875881</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/392</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Lübeck</place_original>
+    <place_reconciled>Lübeck</place_reconciled>
+    <place_wikidata_id>Q2843</place_wikidata_id>
+    <description_de>Großstadt an der Ostseeküste in Schleswig-Holstein, Deutschland</description_de>
+    <description>city in Schleswig-Holstein, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/e/ed/L%C3%BCbeck_Holstentor.jpg</img_url>
+    <coordinate location>53.869722222222,10.686388888889</coordinate location>
+    <WKT>POINT(10.686388888889 53.869722222222)</WKT>
+    <GND ID>4036483-5</GND ID>
+    <Freebase ID>/m/04hhb</Freebase ID>
+    <GeoNames ID>2875601</GeoNames ID>
+    <TGN ID>7012327</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/57</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Ludwigsburg</place_original>
+    <place_reconciled>Ludwigsburg</place_reconciled>
+    <place_wikidata_id>Q622</place_wikidata_id>
+    <description_de>Stadt in Baden-Württemberg, Deutschland</description_de>
+    <description>city in Baden-Württemberg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/22/Blueba_Lubu.jpg</img_url>
+    <coordinate location>48.8975,9.1919444444444</coordinate location>
+    <WKT>POINT(9.1919444444444 48.8975)</WKT>
+    <GND ID>4036469-0</GND ID>
+    <Freebase ID>/m/035wpv</Freebase ID>
+    <GeoNames ID>2875392</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/280</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Luzern</place_original>
+    <place_reconciled>Lucerne</place_reconciled>
+    <place_wikidata_id>Q4191</place_wikidata_id>
+    <description_de>Schweizer Stadt und Hauptort des Kantons Luzern</description_de>
+    <description>city on Lake Lucerne, in central Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/48/Lucerne_2.jpg</img_url>
+    <coordinate location>47.0523,8.3059</coordinate location>
+    <WKT>POINT(8.3059 47.0523)</WKT>
+    <GND ID>4036733-2</GND ID>
+    <Freebase ID>/m/0194f5</Freebase ID>
+    <GeoNames ID>2659811</GeoNames ID>
+    <TGN ID>7007280</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/408</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Lyon</place_original>
+    <place_reconciled>Lyon</place_reconciled>
+    <place_wikidata_id>Q456</place_wikidata_id>
+    <description_de>Hauptstadt der Region Rhône-Alpes und des Départements Rlllhône in Frankreich</description_de>
+    <description>commune in the metropolis of Lyon, France</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/cd/Lyon_paysages.jpg</img_url>
+    <coordinate location>45.758888888889,4.8413888888889</coordinate location>
+    <WKT>POINT(4.8413888888889 45.758888888889)</WKT>
+    <GND ID>4036770-8</GND ID>
+    <Freebase ID>/m/0dprg</Freebase ID>
+    <GeoNames ID>2996944</GeoNames ID>
+    <TGN ID>7008772</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/700</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Mailand</place_original>
+    <place_reconciled>Milan</place_reconciled>
+    <place_wikidata_id>Q490</place_wikidata_id>
+    <description_de>italienische Großstadt, Hauptstadt der Provinz Mailand</description_de>
+    <description>second-largest city in Italy</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/5/58/Milan.Proper.Wikipedia.Image.png</img_url>
+    <coordinate location>45.464161,9.190336</coordinate location>
+    <WKT>POINT(9.190336 45.464161)</WKT>
+    <GND ID>4037100-1</GND ID>
+    <Freebase ID>/m/0947l</Freebase ID>
+    <GeoNames ID>6542283</GeoNames ID>
+    <TGN ID>7005903</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/1699</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Malvern</place_original>
+    <place_reconciled>Malvern</place_reconciled>
+    <place_wikidata_id>Q623323</place_wikidata_id>
+    <description_de><?xml version='1.0' encoding='UTF-8'?>\n<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+\t<head>
+		<variable name='value'/>
+	</head>
+	<results>
+	</results>
+</sparql>
+</description_de>
+    <description>spa town and civil parish in Worcestershire, England</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/d/d4/Great_Malvern_from_the_Hills_-_geograph.org.uk_-_180560.jpg</img_url>
+    <coordinate location>52.108,-2.325</coordinate location>
+    <WKT>POINT(-2.325 52.108)</WKT>
+    <GND ID>133754-3</GND ID>
+    <Freebase ID>/m/020xx0</Freebase ID>
+    <GeoNames ID>7290434</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/278</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Mannheim</place_original>
+    <place_reconciled>Mannheim</place_reconciled>
+    <place_wikidata_id>Q2119</place_wikidata_id>
+    <description_de>Großstadt in Baden-Württemberg, Deutschland</description_de>
+    <description>city in Baden-Württemberg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/21/Mannheim_Innenstadt.jpg</img_url>
+    <coordinate location>49.483611111111,8.4630555555556</coordinate location>
+    <WKT>POINT(8.4630555555556 49.483611111111)</WKT>
+    <GND ID>4037372-1</GND ID>
+    <Freebase ID>/m/0pf5y</Freebase ID>
+    <GeoNames ID>2873891</GeoNames ID>
+    <TGN ID>7005179</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/767</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Mantova</place_original>
+    <place_reconciled>Mantua</place_reconciled>
+    <place_wikidata_id>Q6247</place_wikidata_id>
+    <description_de>italienische Gemeinde</description_de>
+    <description>Italian comune</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/1d/Mantova_Skyline.jpg</img_url>
+    <coordinate location>45.156388888889,10.791111111111</coordinate location>
+    <WKT>POINT(10.791111111111 45.156388888889)</WKT>
+    <GND ID>4114978-6</GND ID>
+    <Freebase ID>/m/0d8zt</Freebase ID>
+    <GeoNames ID>6541855</GeoNames ID>
+    <TGN ID>7005879</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/376</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Marburg</place_original>
+    <place_reconciled>Marburg</place_reconciled>
+    <place_wikidata_id>Q3869</place_wikidata_id>
+    <description_de>Universitätsstadt und Kreisstadt im Landkreis Marburg-Biedenkopf in Hessen mit Sonderstatus</description_de>
+    <description>seat of Landkreis Marburg-Biedenkopf and city in Hesse, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/8/87/Marburger_Schloss_024.jpg</img_url>
+    <coordinate location>50.816666666667,8.7666666666667</coordinate location>
+    <WKT>POINT(8.7666666666667 50.816666666667)</WKT>
+    <GND ID>4037446-4</GND ID>
+    <Freebase ID>/m/0cy41</Freebase ID>
+    <GeoNames ID>2873759</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/255</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Mentone</place_original>
+    <place_reconciled>Menton</place_reconciled>
+    <place_wikidata_id>Q180083</place_wikidata_id>
+    <description_de>französische Gemeinde</description_de>
+    <description>commune in Alpes-Maritimes, France</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/d/d7/Menton_vieille_ville.JPG</img_url>
+    <coordinate location>43.774722222222,7.4997222222222</coordinate location>
+    <WKT>POINT(7.4997222222222 43.774722222222)</WKT>
+    <GND ID>4115099-5</GND ID>
+    <Freebase ID>/m/027fgw</Freebase ID>
+    <GeoNames ID>6446719</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/414</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Meran</place_original>
+    <place_reconciled>Merano</place_reconciled>
+    <place_wikidata_id>Q131605</place_wikidata_id>
+    <description_de>italienische Gemeinde</description_de>
+    <description>Italian comune</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/12/Meran_vom_pulverturm_wv_ds_08_2004.jpg</img_url>
+    <coordinate location>46.668888888889,11.163888888889</coordinate location>
+    <WKT>POINT(11.163888888889 46.668888888889)</WKT>
+    <GND ID>4038688-0</GND ID>
+    <Freebase ID>/m/045fm9</Freebase ID>
+    <GeoNames ID>6535957</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/361</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Milan</place_original>
+    <place_reconciled>Milan</place_reconciled>
+    <place_wikidata_id>Q490</place_wikidata_id>
+    <description_de>italienische Großstadt, Hauptstadt der Provinz Mailand</description_de>
+    <description>second-largest city in Italy</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/5/58/Milan.Proper.Wikipedia.Image.png</img_url>
+    <coordinate location>45.464161,9.190336</coordinate location>
+    <WKT>POINT(9.190336 45.464161)</WKT>
+    <GND ID>4037100-1</GND ID>
+    <Freebase ID>/m/0947l</Freebase ID>
+    <GeoNames ID>6542283</GeoNames ID>
+    <TGN ID>7005903</TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/2553</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Milano</place_original>
+    <place_reconciled>Milan</place_reconciled>
+    <place_wikidata_id>Q490</place_wikidata_id>
+    <description_de>italienische Großstadt, Hauptstadt der Provinz Mailand</description_de>
+    <description>second-largest city in Italy</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/5/58/Milan.Proper.Wikipedia.Image.png</img_url>
+    <coordinate location>45.464161,9.190336</coordinate location>
+    <WKT>POINT(9.190336 45.464161)</WKT>
+    <GND ID>4037100-1</GND ID>
+    <Freebase ID>/m/0947l</Freebase ID>
+    <GeoNames ID>6542283</GeoNames ID>
+    <TGN ID>7005903</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/274</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Montepulciano</place_original>
+    <place_reconciled>Montepulciano</place_reconciled>
+    <place_wikidata_id>Q91217</place_wikidata_id>
+    <description_de>italienische Gemeinde</description_de>
+    <description>Italian comune</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/d/dd/Montepulciano02.jpg</img_url>
+    <coordinate location>43.1,11.783333333333</coordinate location>
+    <WKT>POINT(11.783333333333 43.1)</WKT>
+    <GND ID>4115211-6</GND ID>
+    <Freebase ID>/m/06ywg0</Freebase ID>
+    <GeoNames ID>6541611</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/277</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Moscow</place_original>
+    <place_reconciled>Moscow</place_reconciled>
+    <place_wikidata_id>Q649</place_wikidata_id>
+    <description_de>Hauptstadt von Russland</description_de>
+    <description>capital city and the largest city of Russia; separate federal subject of Russia</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/24/MSK_Collage_2015.png</img_url>
+    <coordinate location>55.755833333333,37.617777777778</coordinate location>
+    <WKT>POINT(37.617777777778 55.755833333333)</WKT>
+    <GND ID>4074987-3</GND ID>
+    <Freebase ID>/m/04swd</Freebase ID>
+    <GeoNames ID>524894</GeoNames ID>
+    <TGN ID>7012974</TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/2529</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Mülhausen</place_original>
+    <place_reconciled>Mulhouse</place_reconciled>
+    <place_wikidata_id>Q79815</place_wikidata_id>
+    <description_de>Mülhausen (französisch Mulhouse, elsässisch Milhüsa) ist eine Stadt in der Region Elsass</description_de>
+    <description>commune in Haut-Rhin, France</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/24/Mulhouse_%2832701038458%29.jpg</img_url>
+    <coordinate location>47.748611111111,7.3391666666667</coordinate location>
+    <WKT>POINT(7.3391666666667 47.748611111111)</WKT>
+    <GND ID>4040474-2</GND ID>
+    <Freebase ID>/m/01_wjj</Freebase ID>
+    <GeoNames ID>2991214</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/446</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Mulhouse</place_original>
+    <place_reconciled>Mulhouse</place_reconciled>
+    <place_wikidata_id>Q79815</place_wikidata_id>
+    <description_de>Mülhausen (französisch Mulhouse, elsässisch Milhüsa) ist eine Stadt in der Region Elsass</description_de>
+    <description>commune in Haut-Rhin, France</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/24/Mulhouse_%2832701038458%29.jpg</img_url>
+    <coordinate location>47.748611111111,7.3391666666667</coordinate location>
+    <WKT>POINT(7.3391666666667 47.748611111111)</WKT>
+    <GND ID>4040474-2</GND ID>
+    <Freebase ID>/m/01_wjj</Freebase ID>
+    <GeoNames ID>2991214</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/2544</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>München</place_original>
+    <place_reconciled>Munich</place_reconciled>
+    <place_wikidata_id>Q1726</place_wikidata_id>
+    <description_de>Landeshauptstadt des Freistaates Bayern</description_de>
+    <description>city in Bavaria, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/14/M%C3%BCnchen_Panorama.JPG</img_url>
+    <coordinate location>48.137194444444,11.5755</coordinate location>
+    <WKT>POINT(11.5755 48.137194444444)</WKT>
+    <GND ID>4127793-4</GND ID>
+    <Freebase ID>/m/02h6_6p</Freebase ID>
+    <GeoNames ID>2867714</GeoNames ID>
+    <TGN ID>7004333</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/271</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Muri</place_original>
+    <place_reconciled>Muri</place_reconciled>
+    <place_wikidata_id>Q69011</place_wikidata_id>
+    <description_de>Gemeinde im Kanton Aargau, Schweiz</description_de>
+    <description>municipality in the canton Aargau, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/8/8e/Picswiss_AG-23-07.jpg</img_url>
+    <coordinate location>47.274722222222,8.3416666666667</coordinate location>
+    <WKT>POINT(8.3416666666667 47.274722222222)</WKT>
+    <GND ID>4101789-4</GND ID>
+    <Freebase ID>/m/0cwc0j</Freebase ID>
+    <GeoNames ID>7286599</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/402</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Naumburg a. d. Saale</place_original>
+    <place_reconciled>Naumburg (Saale)</place_reconciled>
+    <place_wikidata_id>Q15986</place_wikidata_id>
+    <description_de>Stadt im Burgenlandkreis, Sachsen-Anhalt</description_de>
+    <description>town in the district Burgenlandkreis, in the state of Saxony-Anhalt, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/f6/KLG_4553_Naumburger_Dom.jpg</img_url>
+    <coordinate location>51.15,11.816666666667</coordinate location>
+    <WKT>POINT(11.816666666667 51.15)</WKT>
+    <GND ID>4041445-0</GND ID>
+    <Freebase ID>/m/04ss38</Freebase ID>
+    <GeoNames ID>2866906</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/465</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Neapel</place_original>
+    <place_reconciled>Naples</place_reconciled>
+    <place_wikidata_id>Q2634</place_wikidata_id>
+    <description_de>italienische Großstadt</description_de>
+    <description>city in Campania, Italy</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg</img_url>
+    <coordinate location>40.833333333333,14.25</coordinate location>
+    <WKT>POINT(14.25 40.833333333333)</WKT>
+    <GND ID>4041476-0</GND ID>
+    <Freebase ID>/m/0fhsz</Freebase ID>
+    <GeoNames ID>3172395</GeoNames ID>
+    <TGN ID>7004474</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/1556</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Neumünster</place_original>
+    <place_reconciled>Neumünster</place_reconciled>
+    <place_wikidata_id>Q3879</place_wikidata_id>
+    <description_de>kreisfreie Stadt in Schleswig-Holstein, Deutschland</description_de>
+    <description>city in Schleswig-Holstein, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/7/79/Neumuensterwappen.jpg</img_url>
+    <coordinate location>54.071388888889,9.99</coordinate location>
+    <WKT>POINT(9.99 54.071388888889)</WKT>
+    <GND ID>4041845-5</GND ID>
+    <Freebase ID>/m/04d32t</Freebase ID>
+    <GeoNames ID>2864475</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/218</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Neu-Schauenburg</place_original>
+    <place_reconciled>Ruine Neu-Schauenburg</place_reconciled>
+    <place_wikidata_id>Q2175365</place_wikidata_id>
+    <description_de>Burg in der Schweiz</description_de>
+    <description>ruined castle in the commune of Frenkendorf, Switzerland located near the border of France and Germany.</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/10/Neu-Schauenburg-Lage-Uebersicht.jpg</img_url>
+    <coordinate location>47.5006,7.68236</coordinate location>
+    <WKT>POINT(7.68236 47.5006)</WKT>
+    <GND ID>1048371611</GND ID>
+    <Freebase ID></Freebase ID>
+    <GeoNames ID></GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/453</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Nizza</place_original>
+    <place_reconciled>Nice</place_reconciled>
+    <place_wikidata_id>Q33959</place_wikidata_id>
+    <description_de>französische Großstadt an der Côte d'Azur</description_de>
+    <description>city in Alpes-Maritimes, France</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/e/e7/Port_Of_Nice%2C_C%C3%B4te_d%27Azur.jpg</img_url>
+    <coordinate location>43.701944444444,7.2683333333333</coordinate location>
+    <WKT>POINT(7.2683333333333 43.701944444444)</WKT>
+    <GND ID>4075416-9</GND ID>
+    <Freebase ID>/m/0cp6w</Freebase ID>
+    <GeoNames ID>2990440</GeoNames ID>
+    <TGN ID>7008773</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/466</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Nový Bor</place_original>
+    <place_reconciled>Nový Bor</place_reconciled>
+    <place_wikidata_id>Q1000086</place_wikidata_id>
+    <description_de>Gemeinde in Tschechien</description_de>
+    <description>town in the Liberec Region of the Czech Republic</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/93/Luftbild_von_Nov%C3%BD_Bor.JPG</img_url>
+    <coordinate location>50.757681178047,14.555662165889</coordinate location>
+    <WKT>POINT(14.555662165889 50.757681178047)</WKT>
+    <GND ID>4304888-2</GND ID>
+    <Freebase ID>/m/07h8_d</Freebase ID>
+    <GeoNames ID>3069381</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/103864</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Ohio</place_original>
+    <place_reconciled>Wooster</place_reconciled>
+    <place_wikidata_id>Q989567</place_wikidata_id>
+    <description_de>Stadt im US-Bundesstaat Ohio</description_de>
+    <description>city in Ohio</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/13/Wooster_downtown2.jpg</img_url>
+    <coordinate location>40.8092, -81.9372</coordinate location>
+    <WKT>POINT(-81.9372 40.8092)</WKT>
+    <GND ID>4351701-8</GND ID>
+    <Freebase ID>/m/0z38m</Freebase ID>
+    <GeoNames ID>5129633</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/768</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Oldenburg</place_original>
+    <place_reconciled>Oldenburg</place_reconciled>
+    <place_wikidata_id>Q2936</place_wikidata_id>
+    <description_de>Großstadt in Niedersachsen, Deutschland</description_de>
+    <description>town in Lower Saxony, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/4d/Schlosswache_mit_Lambertikirche.jpg</img_url>
+    <coordinate location>53.143888888889,8.2138888888889</coordinate location>
+    <WKT>POINT(8.2138888888889 53.143888888889)</WKT>
+    <GND ID>4043457-6</GND ID>
+    <Freebase ID></Freebase ID>
+    <GeoNames ID>2857458</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/308</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Paestum</place_original>
+    <place_reconciled>Paestum</place_reconciled>
+    <place_wikidata_id>Q16896941</place_wikidata_id>
+    <description_de><?xml version='1.0' encoding='UTF-8'?>\n<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+\t<head>
+		<variable name='value'/>
+	</head>
+	<results>
+	</results>
+</sparql>
+</description_de>
+    <description>frazione in Campania, Italy</description>
+    <img_url></img_url>
+    <coordinate location>40.4058,15.0019</coordinate location>
+    <WKT>POINT(15.0019 40.4058)</WKT>
+    <GND ID>4075809-6</GND ID>
+    <Freebase ID></Freebase ID>
+    <GeoNames ID></GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/401</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Paläocastrizza</place_original>
+    <place_reconciled>Palaiokastritsa</place_reconciled>
+    <place_wikidata_id>Q916750</place_wikidata_id>
+    <description_de><?xml version='1.0' encoding='UTF-8'?>\n<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+\t<head>
+		<variable name='value'/>
+	</head>
+	<results>
+	</results>
+</sparql>
+</description_de>
+    <description>village in Greece</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/b2/Palaiokastritsa_coast%2C_Corfu%2C_Greece.jpg</img_url>
+    <coordinate location>39.67277778,19.70666667</coordinate location>
+    <WKT>POINT(19.70666667 39.67277778)</WKT>
+    <GND ID>7582721-9</GND ID>
+    <Freebase ID>/m/0fvygq</Freebase ID>
+    <GeoNames ID>2463615</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/438</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Paris</place_original>
+    <place_reconciled>Paris</place_reconciled>
+    <place_wikidata_id>Q90</place_wikidata_id>
+    <description_de>Hauptstadt von Frankreich</description_de>
+    <description>capital and largest city of France</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/6/6e/Paris_-_Eiffelturm_und_Marsfeld2.jpg</img_url>
+    <coordinate location>48.856577777778,2.3518277777778</coordinate location>
+    <WKT>POINT(2.3518277777778 48.856577777778)</WKT>
+    <GND ID>4044660-8</GND ID>
+    <Freebase ID>/m/05qtj</Freebase ID>
+    <GeoNames ID>2968815</GeoNames ID>
+    <TGN ID>7008038</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/34</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Parkowo</place_original>
+    <place_reconciled>Parkowo</place_reconciled>
+    <place_wikidata_id>Q5478754</place_wikidata_id>
+    <description_de><?xml version='1.0' encoding='UTF-8'?>\n<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+\t<head>
+		<variable name='value'/>
+	</head>
+	<results>
+	</results>
+</sparql>
+</description_de>
+    <description><?xml version='1.0' encoding='UTF-8'?>\n<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+\t<head>
+		<variable name='value'/>
+	</head>
+	<results>
+	</results>
+</sparql>
+</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/96/Parkowo_church_2.jpg</img_url>
+    <coordinate location>52.7,16.91667</coordinate location>
+    <WKT>POINT(16.91667 52.7)</WKT>
+    <GND ID></GND ID>
+    <Freebase ID></Freebase ID>
+    <GeoNames ID>3089452</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/2160</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Pfirt</place_original>
+    <place_reconciled>Ferrette</place_reconciled>
+    <place_wikidata_id>Q392059</place_wikidata_id>
+    <description_de>französische Gemeinde</description_de>
+    <description>commune in Haut-Rhin, France</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/fd/Ferrette_Chateau_2008.jpg</img_url>
+    <coordinate location>47.493888888889,7.3158333333333</coordinate location>
+    <WKT>POINT(7.3158333333333 47.493888888889)</WKT>
+    <GND ID>4291049-3</GND ID>
+    <Freebase ID>/m/03nssbp</Freebase ID>
+    <GeoNames ID>3018659</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/268</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Pisa</place_original>
+    <place_reconciled>Pisa</place_reconciled>
+    <place_wikidata_id>Q13375</place_wikidata_id>
+    <description_de>Stadt in der Toskana in Italien</description_de>
+    <description>city in Tuscany, Central Italy</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/f4/Pisa_-_veduta_dall%27aereo_4.JPG</img_url>
+    <coordinate location>43.716666666667,10.4</coordinate location>
+    <WKT>POINT(10.4 43.716666666667)</WKT>
+    <GND ID>4046151-8</GND ID>
+    <Freebase ID>/m/064xp</Freebase ID>
+    <GeoNames ID>6542122</GeoNames ID>
+    <TGN ID>7006082</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/275</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Pontresina</place_original>
+    <place_reconciled>Pontresina</place_reconciled>
+    <place_wikidata_id>Q69259</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>village in the Engadine valley, Graubünden, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/2f/Pontresina_Dorf.jpg</img_url>
+    <coordinate location>46.499722222222,9.8997222222222</coordinate location>
+    <WKT>POINT(9.8997222222222 46.499722222222)</WKT>
+    <GND ID>4046768-5</GND ID>
+    <Freebase ID>/m/09_cg9</Freebase ID>
+    <GeoNames ID>7286818</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/381</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Posen</place_original>
+    <place_reconciled>Poznań</place_reconciled>
+    <place_wikidata_id>Q268</place_wikidata_id>
+    <description_de>polnische Großstadt</description_de>
+    <description>city in Greater Poland Voivodeship, Poland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/8/84/Collage_of_views_of_Pozna%C5%84%2C_Poland.jpg</img_url>
+    <coordinate location>52.4,16.916666666667</coordinate location>
+    <WKT>POINT(16.916666666667 52.4)</WKT>
+    <GND ID>4046868-9</GND ID>
+    <Freebase ID>/m/05xnv</Freebase ID>
+    <GeoNames ID>3088171</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/45</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Prague</place_original>
+    <place_reconciled>Prague</place_reconciled>
+    <place_wikidata_id>Q1085</place_wikidata_id>
+    <description_de>Hauptstadt Tschechiens</description_de>
+    <description>capital city of the Czech Republic</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/1f/Pet%C5%99%C3%ADn_Tower_View_IMG_3020.JPG</img_url>
+    <coordinate location>50.088611111111,14.421388888889</coordinate location>
+    <WKT>POINT(14.421388888889 50.088611111111)</WKT>
+    <GND ID>4076310-9</GND ID>
+    <Freebase ID>/m/05ywg</Freebase ID>
+    <GeoNames ID>3067695</GeoNames ID>
+    <TGN ID>7006464</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/214</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Pratteln</place_original>
+    <place_reconciled>Pratteln</place_reconciled>
+    <place_wikidata_id>Q64679</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/8/8d/Pratteln_Industrie.jpg</img_url>
+    <coordinate location>47.5185,7.69275</coordinate location>
+    <WKT>POINT(7.69275 47.5185)</WKT>
+    <GND ID>4237732-8</GND ID>
+    <Freebase ID>/m/060rp8</Freebase ID>
+    <GeoNames ID>7286828</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/454</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Pula</place_original>
+    <place_reconciled>Pula</place_reconciled>
+    <place_wikidata_id>Q4656</place_wikidata_id>
+    <description_de>Stadt in Kroatien</description_de>
+    <description>town in Istria County, Croatia</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/bd/Pula_Aerial_View.jpg</img_url>
+    <coordinate location>44.866666666667,13.833333333333</coordinate location>
+    <WKT>POINT(13.833333333333 44.866666666667)</WKT>
+    <GND ID>4103444-2</GND ID>
+    <Freebase ID>/m/02lw53</Freebase ID>
+    <GeoNames ID>3192224</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/2537</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Rapallo</place_original>
+    <place_reconciled>Rapallo</place_reconciled>
+    <place_wikidata_id>Q210098</place_wikidata_id>
+    <description_de>italienische Gemeinde</description_de>
+    <description>Italian comune</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/e/e4/Rapallo-IMG_0436.JPG</img_url>
+    <coordinate location>44.35,9.2333333333333</coordinate location>
+    <WKT>POINT(9.2333333333333 44.35)</WKT>
+    <GND ID>4119974-1</GND ID>
+    <Freebase ID>/m/04dn78</Freebase ID>
+    <GeoNames ID>6537063</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/436</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Rheinfelden</place_original>
+    <place_reconciled>Rheinfelden</place_reconciled>
+    <place_wikidata_id>Q269667</place_wikidata_id>
+    <description_de>Gemeinde im Kanton Aargau, Schweiz</description_de>
+    <description>municipality in the canton Aargau, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/3/3b/Old-Town_of_Rheinfelden_with_the_Rhein.JPG</img_url>
+    <coordinate location>47.553888888889,7.7958333333333</coordinate location>
+    <WKT>POINT(7.7958333333333 47.553888888889)</WKT>
+    <GND ID>4049753-7</GND ID>
+    <Freebase ID>/m/05l3tk</Freebase ID>
+    <GeoNames ID>7286892</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/772</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Riesbach</place_original>
+    <place_reconciled>Riesbach</place_reconciled>
+    <place_wikidata_id>Q677710</place_wikidata_id>
+    <description_de>Stadtteil von Zürich</description_de>
+    <description><?xml version='1.0' encoding='UTF-8'?>\n<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+\t<head>
+		<variable name='value'/>
+	</head>
+	<results>
+	</results>
+</sparql>
+</description>
+    <img_url></img_url>
+    <coordinate location>47.355,8.561</coordinate location>
+    <WKT>POINT(8.561 47.355)</WKT>
+    <GND ID>4260374-2</GND ID>
+    <Freebase ID>/m/03h4z31</Freebase ID>
+    <GeoNames ID>6295542</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/217</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Rimini</place_original>
+    <place_reconciled>Rimini</place_reconciled>
+    <place_wikidata_id>Q13369</place_wikidata_id>
+    <description_de>italienische Gemeinde</description_de>
+    <description>Italian comune</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/9a/Rimini_Montage.jpg</img_url>
+    <coordinate location>44.0595,12.5685</coordinate location>
+    <WKT>POINT(12.5685 44.0595)</WKT>
+    <GND ID>4050057-3</GND ID>
+    <Freebase ID>/m/0kt0w</Freebase ID>
+    <GeoNames ID>6541863</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/382</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Roggwil (Thurgau)</place_original>
+    <place_reconciled>Roggwil</place_reconciled>
+    <place_wikidata_id>Q65577</place_wikidata_id>
+    <description_de>Gemeinde im Kanton Thurgau, Schweiz</description_de>
+    <description>municipality of Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/0/01/Kybun-tower-roggwil.jpg</img_url>
+    <coordinate location>47.499444444444,9.395</coordinate location>
+    <WKT>POINT(9.395 47.499444444444)</WKT>
+    <GND ID>4529865-8</GND ID>
+    <Freebase ID>/m/0g35yv</Freebase ID>
+    <GeoNames ID>7286930</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104930</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Röhrsdorf</place_original>
+    <place_reconciled>Klipphausen</place_reconciled>
+    <place_wikidata_id>Q8726</place_wikidata_id>
+    <description_de>Gemeinde im Landkreis Meißen, Sachsen, Deutschland</description_de>
+    <description>municipality in the district of Meißen, in Saxony, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/bd/Gauernitz-Schloss.jpg</img_url>
+    <coordinate location>51.083333333333,13.533333333333</coordinate location>
+    <WKT>POINT(13.533333333333 51.083333333333)</WKT>
+    <GND ID>4580415-1</GND ID>
+    <Freebase ID>/m/02vw_tz</Freebase ID>
+    <GeoNames ID>2887645</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/427</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Rom</place_original>
+    <place_reconciled>Rome</place_reconciled>
+    <place_wikidata_id>Q220</place_wikidata_id>
+    <description_de>Hauptstadt von Italien</description_de>
+    <description>capital and largest city of Italy</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/c0/Rome_Montage_2017.png</img_url>
+    <coordinate location>41.893055555556,12.482777777778</coordinate location>
+    <WKT>POINT(12.482777777778 41.893055555556)</WKT>
+    <GND ID>4050471-2</GND ID>
+    <Freebase ID>/m/06c62</Freebase ID>
+    <GeoNames ID>3169071</GeoNames ID>
+    <TGN ID>7000874</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/131</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Rome</place_original>
+    <place_reconciled>Rome</place_reconciled>
+    <place_wikidata_id>Q220</place_wikidata_id>
+    <description_de>Hauptstadt von Italien</description_de>
+    <description>capital and largest city of Italy</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/c0/Rome_Montage_2017.png</img_url>
+    <coordinate location>41.893055555556,12.482777777778</coordinate location>
+    <WKT>POINT(12.482777777778 41.893055555556)</WKT>
+    <GND ID>4050471-2</GND ID>
+    <Freebase ID>/m/06c62</Freebase ID>
+    <GeoNames ID>3169071</GeoNames ID>
+    <TGN ID>7000874</TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/2517</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Rotterdam</place_original>
+    <place_reconciled>Rotterdam</place_reconciled>
+    <place_wikidata_id>Q34370</place_wikidata_id>
+    <description_de>zweitgrößte Stadt der Niederlande</description_de>
+    <description>city in the Netherlands</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/f8/Erasmusbrug_seen_from_Euromast.jpg</img_url>
+    <coordinate location>51.9225,4.47917</coordinate location>
+    <WKT>POINT(4.47917 51.9225)</WKT>
+    <GND ID>4050739-7</GND ID>
+    <Freebase ID>/m/06hdk</Freebase ID>
+    <GeoNames ID>2747890</GeoNames ID>
+    <TGN ID>7006792</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/801</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Rüdlingen</place_original>
+    <place_reconciled>Rüdlingen</place_reconciled>
+    <place_wikidata_id>Q66796</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/e/ec/R%C3%BCdlingen.jpg</img_url>
+    <coordinate location>47.566666666667,8.5663888888889</coordinate location>
+    <WKT>POINT(8.5663888888889 47.566666666667)</WKT>
+    <GND ID>4134083-8</GND ID>
+    <Freebase ID>/m/0fvtwq</Freebase ID>
+    <GeoNames ID>2658938</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/355</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Rudolstadt</place_original>
+    <place_reconciled>Rudolstadt</place_reconciled>
+    <place_wikidata_id>Q517107</place_wikidata_id>
+    <description_de>Gemeinde im Landkreis Saalfeld-Rudolstadt, Thüringen, Deutschland</description_de>
+    <description>municipality of Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/b/b0/RudolstadtBlickVonDerHeidecksburg.jpg</img_url>
+    <coordinate location>50.716944444444,11.3275</coordinate location>
+    <WKT>POINT(11.3275 50.716944444444)</WKT>
+    <GND ID>4105066-6</GND ID>
+    <Freebase ID>/m/09rc1n</Freebase ID>
+    <GeoNames ID>2843355</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/823</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Saalfeld/Saale</place_original>
+    <place_reconciled>Saalfeld</place_reconciled>
+    <place_wikidata_id>Q155984</place_wikidata_id>
+    <description_de>Gemeinde im Landkreis Saalfeld-Rudolstadt, Thüringen, Deutschland</description_de>
+    <description>municipality of Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/0/09/Stadtkirche_Saalfeld.JPG</img_url>
+    <coordinate location>50.650555555556,11.354166666667</coordinate location>
+    <WKT>POINT(11.354166666667 50.650555555556)</WKT>
+    <GND ID>4051087-6</GND ID>
+    <Freebase ID>/m/03l7sz</Freebase ID>
+    <GeoNames ID>2842688</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/825</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Sankt Gallen</place_original>
+    <place_reconciled>St. Gallen</place_reconciled>
+    <place_wikidata_id>Q25607</place_wikidata_id>
+    <description_de>Schweizer Stadt, Hauptort des Kantons St. Gallen</description_de>
+    <description>capital of St. Gallen canton in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/a/ab/Sankt_Gallen.jpg</img_url>
+    <coordinate location>47.423333333333,9.3772222222222</coordinate location>
+    <WKT>POINT(9.3772222222222 47.423333333333)</WKT>
+    <GND ID>4051594-1</GND ID>
+    <Freebase ID>/m/0245n9</Freebase ID>
+    <GeoNames ID>7287240</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/1696</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Sarnen</place_original>
+    <place_reconciled>Sarnen</place_reconciled>
+    <place_wikidata_id>Q63964</place_wikidata_id>
+    <description_de>Schweizer Gemeinde und Hauptort des Kantons Obwalden</description_de>
+    <description>town in, and capital of, the Swiss canton of Obwalden</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/1d/Sarnen-See.jpg</img_url>
+    <coordinate location>46.896944444444,8.2469444444444</coordinate location>
+    <WKT>POINT(8.2469444444444 46.896944444444)</WKT>
+    <GND ID>4379842-1</GND ID>
+    <Freebase ID>/m/01v1m4</Freebase ID>
+    <GeoNames ID>7287056</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/104708</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Sausheim</place_original>
+    <place_reconciled>Sausheim</place_reconciled>
+    <place_wikidata_id>Q495474</place_wikidata_id>
+    <description_de>französische Gemeinde</description_de>
+    <description>commune in Haut-Rhin, France</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/29/Sausheim%2C_Mairie.jpg</img_url>
+    <coordinate location>47.786666666667,7.3730555555556</coordinate location>
+    <WKT>POINT(7.3730555555556 47.786666666667)</WKT>
+    <GND ID>4377731-4</GND ID>
+    <Freebase ID>/m/03nphng</Freebase ID>
+    <GeoNames ID>2975743</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104900</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Schaffhausen</place_original>
+    <place_reconciled>Schaffhausen</place_reconciled>
+    <place_wikidata_id>Q9009</place_wikidata_id>
+    <description_de>Stadt in der Schweiz. Hauptstadt des Kanton Schaffhausen.</description_de>
+    <description>Swiss city, capital of the canton of Schaffhausen</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/8/82/Schaffhausen_-_Rhein_-_Feuerthalen_IMG_9847.JPG</img_url>
+    <coordinate location>47.69653,8.63386</coordinate location>
+    <WKT>POINT(8.63386 47.69653)</WKT>
+    <GND ID>4051993-4</GND ID>
+    <Freebase ID>/m/017jqc</Freebase ID>
+    <GeoNames ID>7287070</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/309</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Schänzli</place_original>
+    <place_reconciled>Muttenz</place_reconciled>
+    <place_wikidata_id>Q66191</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/c7/Muttenz_Wartenberg.jpg</img_url>
+    <coordinate location>47.52481, 7.64905</coordinate location>
+    <WKT>POINT(7.64905 47.52481) </WKT>
+    <GND ID>4256381-1</GND ID>
+    <Freebase ID>/m/0ct1qy</Freebase ID>
+    <GeoNames ID>7286607</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/409</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Schinznach Bad</place_original>
+    <place_reconciled>Schinznach-Bad</place_reconciled>
+    <place_wikidata_id>Q65328</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/27/Schinznach-Bad_kuracparko_013.jpg</img_url>
+    <coordinate location>47.449722222222,8.1694444444444</coordinate location>
+    <WKT>POINT(8.1694444444444 47.449722222222)</WKT>
+    <GND ID>4272401-6</GND ID>
+    <Freebase ID>/m/0fy5zz</Freebase ID>
+    <GeoNames ID>7287085</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/362</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Schliersee</place_original>
+    <place_reconciled>Schliersee</place_reconciled>
+    <place_wikidata_id>Q260306</place_wikidata_id>
+    <description_de>Markt im oberbayerischen Landkreis Miesbach</description_de>
+    <description>town in Bavaria, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/47/Schliersee_St._Sixtus-1.jpg</img_url>
+    <coordinate location>47.733333333333,11.866666666667</coordinate location>
+    <WKT>POINT(11.866666666667 47.733333333333)</WKT>
+    <GND ID>4135437-0</GND ID>
+    <Freebase ID>/m/0d2jvc</Freebase ID>
+    <GeoNames ID>2838502</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/267</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Schönau</place_original>
+    <place_reconciled>Schönau</place_reconciled>
+    <place_wikidata_id>Q266721</place_wikidata_id>
+    <description_de>Gemeinde im niederbayerischen Landkreis Rottal-Inn in Deutschland</description_de>
+    <description>municipality of Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/6/61/08-07-27%2B15-17-47%2BSch%C3%B6nau%2C_Wasserschloss.JPG</img_url>
+    <coordinate location>48.483333333333,12.85</coordinate location>
+    <WKT>POINT(12.85 48.483333333333)</WKT>
+    <GND ID>4585171-2</GND ID>
+    <Freebase ID>/m/02q7bt9</Freebase ID>
+    <GeoNames ID>2837072</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/315</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Siena</place_original>
+    <place_reconciled>Siena</place_reconciled>
+    <place_wikidata_id>Q2751</place_wikidata_id>
+    <description_de>italienische Gemeinde</description_de>
+    <description>city in Tuscany, Italy and capital of the province of Siena</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/c9/02_Sienne_vue_de_San_Clemente.jpg</img_url>
+    <coordinate location>43.318333333333,11.331388888889</coordinate location>
+    <WKT>POINT(11.331388888889 43.318333333333)</WKT>
+    <GND ID>4054903-3</GND ID>
+    <Freebase ID>/m/079yb</Freebase ID>
+    <GeoNames ID>6541466</GeoNames ID>
+    <TGN ID>7011179</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/2081</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Sils-Maria Oberengadin</place_original>
+    <place_reconciled>Sils im Engadin/Segl</place_reconciled>
+    <place_wikidata_id>Q64200</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/f0/Sils_Maria.jpg</img_url>
+    <coordinate location>46.433055555556,9.7663888888889</coordinate location>
+    <WKT>POINT(9.7663888888889 46.433055555556)</WKT>
+    <GND ID>4137143-4</GND ID>
+    <Freebase ID>/m/0b3mf7</Freebase ID>
+    <GeoNames ID>2658589</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/463</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Sissach</place_original>
+    <place_reconciled>Sissach</place_reconciled>
+    <place_wikidata_id>Q66554</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality and the capital of the district of Sissach</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/1b/Sissach-Kirche.jpg</img_url>
+    <coordinate location>47.466666666667,7.8166666666667</coordinate location>
+    <WKT>POINT(7.8166666666667 47.466666666667)</WKT>
+    <GND ID>4118679-5</GND ID>
+    <Freebase ID>/m/0g81zp</Freebase ID>
+    <GeoNames ID>7287180</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104952</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Solothurn</place_original>
+    <place_reconciled>Solothurn</place_reconciled>
+    <place_wikidata_id>Q68965</place_wikidata_id>
+    <description_de>Schweizer Stadt, Hauptort des Kantons Solothurn</description_de>
+    <description>city in Switzerland, capital of its canton</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/8/82/Besenval_stursen_solothurn.jpg</img_url>
+    <coordinate location>47.208055555556,7.5375</coordinate location>
+    <WKT>POINT(7.5375 47.208055555556)</WKT>
+    <GND ID>4055458-2</GND ID>
+    <Freebase ID>/m/0d341</Freebase ID>
+    <GeoNames ID>7287186</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/258</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Spiez</place_original>
+    <place_reconciled>Spiez</place_reconciled>
+    <place_wikidata_id>Q69484</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>town in the canton of Bern, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/7/79/Spiez.JPG</img_url>
+    <coordinate location>46.683055555556,7.6663888888889</coordinate location>
+    <WKT>POINT(7.6663888888889 46.683055555556)</WKT>
+    <GND ID>4118755-6</GND ID>
+    <Freebase ID>/m/02z3r0</Freebase ID>
+    <GeoNames ID>2658536</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/314</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>St. Gallen</place_original>
+    <place_reconciled>St. Gallen</place_reconciled>
+    <place_wikidata_id>Q25607</place_wikidata_id>
+    <description_de>Schweizer Stadt, Hauptort des Kantons St. Gallen</description_de>
+    <description>capital of St. Gallen canton in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/a/ab/Sankt_Gallen.jpg</img_url>
+    <coordinate location>47.423333333333,9.3772222222222</coordinate location>
+    <WKT>POINT(9.3772222222222 47.423333333333)</WKT>
+    <GND ID>4051594-1</GND ID>
+    <Freebase ID>/m/0245n9</Freebase ID>
+    <GeoNames ID>7287240</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/259</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>St. Moritz</place_original>
+    <place_reconciled>St. Moritz</place_reconciled>
+    <place_wikidata_id>Q68986</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>resort town in the Engadine valley in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/3/31/StMoritz.jpg</img_url>
+    <coordinate location>46.4975,9.8380555555556</coordinate location>
+    <WKT>POINT(9.8380555555556 46.4975)</WKT>
+    <GND ID>4105326-6</GND ID>
+    <Freebase ID>/m/01sd_8</Freebase ID>
+    <GeoNames ID>7287245</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/435</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Staatsarchiv Basel</place_original>
+    <place_reconciled>Staatsarchiv Basel-Stadt</place_reconciled>
+    <place_wikidata_id>Q2324698</place_wikidata_id>
+    <description_de>Kantonsarchiv in Basel (Schweiz)</description_de>
+    <description>cantonal archive in Basel (Switzerland)</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/8/8c/Basel_Martingsgasse_2.JPG</img_url>
+    <coordinate location>47.558530555556,7.5888388888889</coordinate location>
+    <WKT>POINT(7.5888388888889 47.558530555556)</WKT>
+    <GND ID>2022516-7</GND ID>
+    <Freebase ID></Freebase ID>
+    <GeoNames ID></GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/18</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Strasbourg</place_original>
+    <place_reconciled>Strasbourg</place_reconciled>
+    <place_wikidata_id>Q6602</place_wikidata_id>
+    <description_de>Stadt in Frankreich</description_de>
+    <description>commune in Bas-Rhin, France</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/4e/Stra%C3%9Fburg_Ponts_Couverts_03.jpg</img_url>
+    <coordinate location>48.573333333333,7.7522222222222</coordinate location>
+    <WKT>POINT(7.7522222222222 48.573333333333)</WKT>
+    <GND ID>4057878-1</GND ID>
+    <Freebase ID>/m/09b83</Freebase ID>
+    <GeoNames ID>2973783</GeoNames ID>
+    <TGN ID>7012346</TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/2539</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Straßburg</place_original>
+    <place_reconciled>Strasbourg</place_reconciled>
+    <place_wikidata_id>Q6602</place_wikidata_id>
+    <description_de>Stadt in Frankreich</description_de>
+    <description>commune in Bas-Rhin, France</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/4e/Stra%C3%9Fburg_Ponts_Couverts_03.jpg</img_url>
+    <coordinate location>48.573333333333,7.7522222222222</coordinate location>
+    <WKT>POINT(7.7522222222222 48.573333333333)</WKT>
+    <GND ID>4057878-1</GND ID>
+    <Freebase ID>/m/09b83</Freebase ID>
+    <GeoNames ID>2973783</GeoNames ID>
+    <TGN ID>7012346</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/37</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Stuttgart</place_original>
+    <place_reconciled>Stuttgart</place_reconciled>
+    <place_wikidata_id>Q1022</place_wikidata_id>
+    <description_de>Landeshauptstadt von Baden-Württemberg, Deutschland</description_de>
+    <description>capital city of German federated state Baden-Württemberg</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/6/66/Neues_Schloss_Schlossplatzspringbrunnen_Jubil%C3%A4umss%C3%A4ule_Schlossplatz_Stuttgart_2015_01.jpg</img_url>
+    <coordinate location>48.776111111111,9.1775</coordinate location>
+    <WKT>POINT(9.1775 48.776111111111)</WKT>
+    <GND ID>4058282-6</GND ID>
+    <Freebase ID>/m/0727_</Freebase ID>
+    <GeoNames ID>2825297</GeoNames ID>
+    <TGN ID>7004425</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/43</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Susa</place_original>
+    <place_reconciled>Susa</place_reconciled>
+    <place_wikidata_id>Q180773</place_wikidata_id>
+    <description_de>antike Stadt im Südwestiran</description_de>
+    <description>ancient city in Iran</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/16/Susa_house_drawing.jpg</img_url>
+    <coordinate location>32.2,48.25</coordinate location>
+    <WKT>POINT(48.25 32.2)</WKT>
+    <GND ID>4118912-7</GND ID>
+    <Freebase ID>/m/0gf0n</Freebase ID>
+    <GeoNames ID>114593</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/103095</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Tegernau</place_original>
+    <place_reconciled>Tegernau</place_reconciled>
+    <place_wikidata_id>Q692977</place_wikidata_id>
+    <description_de>Ortsteil von Kleines Wiesental, Baden-Württemberg, Deutschland</description_de>
+    <description>quarter of Kleines Wiesental, Baden-Württemberg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/7/7b/Tegernau_-_Gesamtansicht2.jpg</img_url>
+    <coordinate location>47.719722222222,7.7944444444444</coordinate location>
+    <WKT>POINT(7.7944444444444 47.719722222222)</WKT>
+    <GND ID>7835878-4</GND ID>
+    <Freebase ID>/m/02p_r9c</Freebase ID>
+    <GeoNames ID>2823692</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/316</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Thann</place_original>
+    <place_reconciled>Thann</place_reconciled>
+    <place_wikidata_id>Q207570</place_wikidata_id>
+    <description_de>französische Gemeinde</description_de>
+    <description>commune in Haut-Rhin, France</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/2e/Thur_Thann.jpg</img_url>
+    <coordinate location>47.806666666667,7.1044444444444</coordinate location>
+    <WKT>POINT(7.1044444444444 47.806666666667)</WKT>
+    <GND ID>4224916-8</GND ID>
+    <Freebase ID>/m/08shxr</Freebase ID>
+    <GeoNames ID>6454567</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/413</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Thorn</place_original>
+    <place_reconciled>Toruń</place_reconciled>
+    <place_wikidata_id>Q47554</place_wikidata_id>
+    <description_de>polnischer Stadtkreis in der Woiwodschaft Kujawien-Pommern</description_de>
+    <description>city in north-central Poland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/7/7a/Collage_of_Torun.png</img_url>
+    <coordinate location>53.016666666667,18.616666666667</coordinate location>
+    <WKT>POINT(18.616666666667 53.016666666667)</WKT>
+    <GND ID>4059950-4</GND ID>
+    <Freebase ID>/m/07pg7</Freebase ID>
+    <GeoNames ID>3083271</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/66</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Timmendorferstrand</place_original>
+    <place_reconciled>Timmendorfer Strand</place_reconciled>
+    <place_wikidata_id>Q541750</place_wikidata_id>
+    <description_de>Gemeinde in Deutschland</description_de>
+    <description>municipality of Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/d/db/Timmendorfer_Strand_2010_PD_102.JPG</img_url>
+    <coordinate location>53.994444444444,10.7825</coordinate location>
+    <WKT>POINT(10.7825 53.994444444444)</WKT>
+    <GND ID>4060184-5</GND ID>
+    <Freebase ID>/m/0cn70l</Freebase ID>
+    <GeoNames ID>2822160</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/822</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Torino</place_original>
+    <place_reconciled>Turin</place_reconciled>
+    <place_wikidata_id>Q495</place_wikidata_id>
+    <description_de>Großstadt im Piemont, Norditalien</description_de>
+    <description>city and commune in Italy</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/9d/Collage_Torino.jpg</img_url>
+    <coordinate location>45.066666666667,7.7</coordinate location>
+    <WKT>POINT(7.7 45.066666666667)</WKT>
+    <GND ID>4061245-4</GND ID>
+    <Freebase ID>/m/07mgr</Freebase ID>
+    <GeoNames ID>3165525</GeoNames ID>
+    <TGN ID>7005688</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/468</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Trapani</place_original>
+    <place_reconciled>Trapani</place_reconciled>
+    <place_wikidata_id>Q13664</place_wikidata_id>
+    <description_de>italienische Gemeinde</description_de>
+    <description>Italian comune</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/c4/Trapani%2C_Sicily.jpg</img_url>
+    <coordinate location>38.016666666667,12.516666666667</coordinate location>
+    <WKT>POINT(12.516666666667 38.016666666667)</WKT>
+    <GND ID>4249472-2</GND ID>
+    <Freebase ID>/m/0c63w</Freebase ID>
+    <GeoNames ID>6542155</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/104845</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Tübingen</place_original>
+    <place_reconciled>Tübingen</place_reconciled>
+    <place_wikidata_id>Q3806</place_wikidata_id>
+    <description_de>Stadt in Baden-Württemberg, Deutschland</description_de>
+    <description>town in central Baden-Württemberg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/fe/T%C3%BCbingen_-_Neckarfront_04.jpg</img_url>
+    <coordinate location>48.52,9.0555555555556</coordinate location>
+    <WKT>POINT(9.0555555555556 48.52)</WKT>
+    <GND ID>4061147-4</GND ID>
+    <Freebase ID>/m/07dh1</Freebase ID>
+    <GeoNames ID>2820860</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/263</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Turin</place_original>
+    <place_reconciled>Turin</place_reconciled>
+    <place_wikidata_id>Q495</place_wikidata_id>
+    <description_de>Großstadt im Piemont, Norditalien</description_de>
+    <description>city and commune in Italy</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/9/9d/Collage_Torino.jpg</img_url>
+    <coordinate location>45.066666666667,7.7</coordinate location>
+    <WKT>POINT(7.7 45.066666666667)</WKT>
+    <GND ID>4061245-4</GND ID>
+    <Freebase ID>/m/07mgr</Freebase ID>
+    <GeoNames ID>3165525</GeoNames ID>
+    <TGN ID>7005688</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/1697</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Uster</place_original>
+    <place_reconciled>Uster</place_reconciled>
+    <place_wikidata_id>Q64032</place_wikidata_id>
+    <description_de>Stadt im Kanton Zürich, Schweiz</description_de>
+    <description>city in the canton of Zürich, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/7/7f/Uster_from_Ju-52_HB-HOT.JPG</img_url>
+    <coordinate location>47.349166666667,8.7191666666667</coordinate location>
+    <WKT>POINT(8.7191666666667 47.349166666667)</WKT>
+    <GND ID>4107491-9</GND ID>
+    <Freebase ID>/m/08flgh</Freebase ID>
+    <GeoNames ID>7287397</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104903</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Varese</place_original>
+    <place_reconciled>Varese</place_reconciled>
+    <place_wikidata_id>Q6285</place_wikidata_id>
+    <description_de>italienische Gemeinde</description_de>
+    <description>Italian comune</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/3/36/Varese_Palazzo_Estense.jpg</img_url>
+    <coordinate location>45.816666666667,8.8333333333333</coordinate location>
+    <WKT>POINT(8.8333333333333 45.816666666667)</WKT>
+    <GND ID>4119370-2</GND ID>
+    <Freebase ID>/m/0ggt2</Freebase ID>
+    <GeoNames ID>6542112</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/383</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Venedig</place_original>
+    <place_reconciled>Venice</place_reconciled>
+    <place_wikidata_id>Q641</place_wikidata_id>
+    <description_de>Stadt im Nordosten Italiens</description_de>
+    <description>city in northeastern Italy, sited on a group of 118 small islands</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/f8/Venice_Old_Town_Lagoon_Aerial_View.jpg</img_url>
+    <coordinate location>45.439722222222,12.331944444444</coordinate location>
+    <WKT>POINT(12.331944444444 45.439722222222)</WKT>
+    <GND ID>4062501-1</GND ID>
+    <Freebase ID>/m/07_pf</Freebase ID>
+    <GeoNames ID>6542284</GeoNames ID>
+    <TGN ID>7018159</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/269</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Venice</place_original>
+    <place_reconciled>Venice</place_reconciled>
+    <place_wikidata_id>Q641</place_wikidata_id>
+    <description_de>Stadt im Nordosten Italiens</description_de>
+    <description>city in northeastern Italy, sited on a group of 118 small islands</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/f/f8/Venice_Old_Town_Lagoon_Aerial_View.jpg</img_url>
+    <coordinate location>45.439722222222,12.331944444444</coordinate location>
+    <WKT>POINT(12.331944444444 45.439722222222)</WKT>
+    <GND ID>4062501-1</GND ID>
+    <Freebase ID>/m/07_pf</Freebase ID>
+    <GeoNames ID>6542284</GeoNames ID>
+    <TGN ID>7018159</TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/2316</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Verona</place_original>
+    <place_reconciled>Verona</place_reconciled>
+    <place_wikidata_id>Q2028</place_wikidata_id>
+    <description_de>italienische Großstadt</description_de>
+    <description>city in Veneto, northern Italy</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/8/8f/Collage_Verona.jpg</img_url>
+    <coordinate location>45.438158333333,10.993741666667</coordinate location>
+    <WKT>POINT(10.993741666667 45.438158333333)</WKT>
+    <GND ID>4063110-2</GND ID>
+    <Freebase ID>/m/01n43d</Freebase ID>
+    <GeoNames ID>6541865</GeoNames ID>
+    <TGN ID>7003262</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/792</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Vitznau</place_original>
+    <place_reconciled>Vitznau</place_reconciled>
+    <place_wikidata_id>Q14578</place_wikidata_id>
+    <description_de>Gemeinde im Kanton Luzern, Schweiz</description_de>
+    <description>municipality in the canton of Lucerne, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/5/57/Prise_de_vue_de_Vitznau_01_-_B%C3%BCrgenstock.jpg</img_url>
+    <coordinate location>47.009166666667,8.4833333333333</coordinate location>
+    <WKT>POINT(8.4833333333333 47.009166666667)</WKT>
+    <GND ID>4108319-2</GND ID>
+    <Freebase ID>/m/03rv9t</Freebase ID>
+    <GeoNames ID>7287489</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/447</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Washington, DC</place_original>
+    <place_reconciled>Washington, D.C.</place_reconciled>
+    <place_wikidata_id>Q61</place_wikidata_id>
+    <description_de>Hauptstadt der Vereinigten Staaten von Amerika</description_de>
+    <description>capital city of the United States</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/cc/Washington_Monument%2C_Washington%2C_D.C._04037u_original.jpg</img_url>
+    <coordinate location>38.895,-77.036666666667</coordinate location>
+    <WKT>POINT(-77.036666666667 38.895)</WKT>
+    <GND ID>4064682-8</GND ID>
+    <Freebase ID>/m/0rh6k</Freebase ID>
+    <GeoNames ID>4140963</GeoNames ID>
+    <TGN ID>7013962</TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104926</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Weggis</place_original>
+    <place_reconciled>Weggis</place_reconciled>
+    <place_wikidata_id>Q14580</place_wikidata_id>
+    <description_de>Gemeinde im Kanton Luzern, Schweiz</description_de>
+    <description>municipality in the canton of Lucerne, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/10/Weggis2002.jpg</img_url>
+    <coordinate location>47.032222222222,8.4383333333333</coordinate location>
+    <WKT>POINT(8.4383333333333 47.032222222222)</WKT>
+    <GND ID>4064967-2</GND ID>
+    <Freebase ID>/m/0d8rdf</Freebase ID>
+    <GeoNames ID>7287553</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/407</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Weimar</place_original>
+    <place_reconciled>Weimar</place_reconciled>
+    <place_wikidata_id>Q3955</place_wikidata_id>
+    <description_de>kreisfreie Stadt in Thüringen, Deutschland</description_de>
+    <description>city in Thuringia, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/19/Stadtansicht_Weimar_mit_Schloss_und_Herderkirche.jpg</img_url>
+    <coordinate location>50.983333333333,11.316666666667</coordinate location>
+    <WKT>POINT(11.316666666667 50.983333333333)</WKT>
+    <GND ID>4065105-8</GND ID>
+    <Freebase ID>/m/0cpyv</Freebase ID>
+    <GeoNames ID>2812479</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/451</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Weissbad</place_original>
+    <place_reconciled>Weissbad</place_reconciled>
+    <place_wikidata_id>Q1443392</place_wikidata_id>
+    <description_de>Siedlung in der Schweiz</description_de>
+    <description>settlement in Appenzell-Innerhoden</description>
+    <img_url></img_url>
+    <coordinate location>47.310277777778,9.4352777777778</coordinate location>
+    <WKT>POINT(9.4352777777778 47.310277777778)</WKT>
+    <GND ID>4496214-9</GND ID>
+    <Freebase ID></Freebase ID>
+    <GeoNames ID>2658034</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/770</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Wenken</place_original>
+    <place_reconciled>Villa Wenkenhof</place_reconciled>
+    <place_wikidata_id>Q1650264</place_wikidata_id>
+    <description_de><?xml version='1.0' encoding='UTF-8'?>\n<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+\t<head>
+		<variable name='value'/>
+	</head>
+	<results>
+	</results>
+</sparql>
+</description_de>
+    <description><?xml version='1.0' encoding='UTF-8'?>\n<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+\t<head>
+		<variable name='value'/>
+	</head>
+	<results>
+	</results>
+</sparql>
+</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/a/a2/Riehen_neuer_Wenken_Ansicht_Gartenseite.jpg</img_url>
+    <coordinate location>47.575,7.6527777777778</coordinate location>
+    <WKT>POINT(7.6527777777778 47.575)</WKT>
+    <GND ID></GND ID>
+    <Freebase ID></Freebase ID>
+    <GeoNames ID></GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/276</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Wien</place_original>
+    <place_reconciled>Vienna</place_reconciled>
+    <place_wikidata_id>Q1741</place_wikidata_id>
+    <description_de>Hauptstadt und Bundesland von Österreich</description_de>
+    <description>capital and one of nine States of Austria</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/6/6a/Bernardo_Bellotto%2C_il_Canaletto_-_View_of_Vienna_from_the_Belvedere.jpg</img_url>
+    <coordinate location>48.20833,16.373064</coordinate location>
+    <WKT>POINT(16.373064 48.20833)</WKT>
+    <GND ID>4066009-6</GND ID>
+    <Freebase ID>/m/0fhp9</Freebase ID>
+    <GeoNames ID>2761333</GeoNames ID>
+    <TGN ID>7003321</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/262</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Wiesbaden</place_original>
+    <place_reconciled>Wiesbaden</place_reconciled>
+    <place_wikidata_id>Q1721</place_wikidata_id>
+    <description_de>Landeshauptstadt von Hessen, Deutschland</description_de>
+    <description>capital of the German state of Hesse</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/21/Wiesbaden_Castle.jpg</img_url>
+    <coordinate location>50.0825,8.24</coordinate location>
+    <WKT>POINT(8.24 50.0825)</WKT>
+    <GND ID>4066043-6</GND ID>
+    <Freebase ID>/m/0bp_7</Freebase ID>
+    <GeoNames ID>3208839</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/354</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Wildegg</place_original>
+    <place_reconciled>Möriken-Wildegg</place_reconciled>
+    <place_wikidata_id>Q65227</place_wikidata_id>
+    <description_de>Gemeinde in der Schweiz</description_de>
+    <description>municipality in Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/4/42/Moeriken-Wildegg.jpg</img_url>
+    <coordinate location>47.416388888889,8.1830555555556</coordinate location>
+    <WKT>POINT(8.1830555555556 47.416388888889)</WKT>
+    <GND ID>4290150-9</GND ID>
+    <Freebase ID>/m/0fzk16</Freebase ID>
+    <GeoNames ID>2659583</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/215</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Wilhelmsdorf (Landkreis Ravensburg)</place_original>
+    <place_reconciled>Wilhelmsdorf</place_reconciled>
+    <place_wikidata_id>Q557779</place_wikidata_id>
+    <description_de>Gemeinde in Deutschland, Baden-Württemberg</description_de>
+    <description>municipality in Baden-Württemberg, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/2f/Wilhelmsdorf_W%C3%BCrttemberg_Blick_zum_Saalplatz_Betsaal_2005.jpg</img_url>
+    <coordinate location>47.865,9.4275</coordinate location>
+    <WKT>POINT(9.4275 47.865)</WKT>
+    <GND ID>4108870-0</GND ID>
+    <Freebase ID>/m/02p_wbp</Freebase ID>
+    <GeoNames ID>6556075</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://korbo2.org/v1/items/104816</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Wilsdruff</place_original>
+    <place_reconciled>Wilsdruff</place_reconciled>
+    <place_wikidata_id>Q8248</place_wikidata_id>
+    <description_de>Stadt im Landkreis Sächsische Schweiz-Osterzgebirge, Sachsen, Deutschland</description_de>
+    <description>town in the Sächsische Schweiz-Osterzgebirge, in the Free State of Saxony, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/2/25/Wilsdruff_from_above01.jpg</img_url>
+    <coordinate location>51.052222222222,13.538333333333</coordinate location>
+    <WKT>POINT(13.538333333333 51.052222222222)</WKT>
+    <GND ID>4317099-7</GND ID>
+    <Freebase ID>/m/05__s9</Freebase ID>
+    <GeoNames ID>2808436</GeoNames ID>
+    <TGN ID>1037999</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/428</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Winterthur</place_original>
+    <place_reconciled>Winterthur</place_reconciled>
+    <place_wikidata_id>Q9125</place_wikidata_id>
+    <description_de>Stadt im Kanton Zürich, Schweiz</description_de>
+    <description>city in the canton of Zürich, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/c1/Winterthur_Stadthaus.jpg</img_url>
+    <coordinate location>47.4992,8.72671</coordinate location>
+    <WKT>POINT(8.72671 47.4992)</WKT>
+    <GND ID>4066337-1</GND ID>
+    <Freebase ID>/m/02h_9x</Freebase ID>
+    <GeoNames ID>7287592</GeoNames ID>
+    <TGN ID>7007301</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/260</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Wooster</place_original>
+    <place_reconciled>Wooster</place_reconciled>
+    <place_wikidata_id>Q989567</place_wikidata_id>
+    <description_de>Stadt im US-Bundesstaat Ohio</description_de>
+    <description>city in Ohio</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/1/13/Wooster_downtown2.jpg</img_url>
+    <coordinate location>40.8092,-81.9372</coordinate location>
+    <WKT>POINT(-81.9372 40.8092)</WKT>
+    <GND ID>4351701-8</GND ID>
+    <Freebase ID>/m/0z38m</Freebase ID>
+    <GeoNames ID>5177358</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/769</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Wuerzburg</place_original>
+    <place_reconciled>Würzburg</place_reconciled>
+    <place_wikidata_id>Q2999</place_wikidata_id>
+    <description_de>Großstadt am Main in Bayern, Deutschland</description_de>
+    <description>city in the region of Franconia, Northern Bavaria, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/c/c9/Dom_R1.jpg</img_url>
+    <coordinate location>49.794444444444,9.9294444444444</coordinate location>
+    <WKT>POINT(9.9294444444444 49.794444444444)</WKT>
+    <GND ID>4067037-5</GND ID>
+    <Freebase ID>/m/01pqfc</Freebase ID>
+    <GeoNames ID>2805615</GeoNames ID>
+    <TGN ID>7004335</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/771</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Zürich</place_original>
+    <place_reconciled>Zürich</place_reconciled>
+    <place_wikidata_id>Q72</place_wikidata_id>
+    <description_de>Hauptstadt des Kantons Zürich, Schweiz</description_de>
+    <description>capital of the canton of Zürich, Switzerland</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/3/3c/Zuerich_Fraumuenster_St_Peter.jpg</img_url>
+    <coordinate location>47.378611111111,8.54</coordinate location>
+    <WKT>POINT(8.54 47.378611111111)</WKT>
+    <GND ID>4068038-1</GND ID>
+    <Freebase ID>/m/08966</Freebase ID>
+    <GeoNames ID>7287650</GeoNames ID>
+    <TGN ID>7007302</TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/54</place_compilation_korbo_uri>
+  </row>
+  <row>
+    <place_original>Zweibrücken</place_original>
+    <place_reconciled>Zweibrücken</place_reconciled>
+    <place_wikidata_id>Q16017</place_wikidata_id>
+    <description_de>kreisfreie Stadt in Rheinland-Pfalz, Deutschland</description_de>
+    <description>town in Rhineland-Palatinate, Germany</description>
+    <img_url>https://upload.wikimedia.org/wikipedia/commons/0/01/Zweibr%C3%BCcken_castle_front_April_2010_darker.jpg</img_url>
+    <coordinate location>49.249444444444,7.3608333333333</coordinate location>
+    <WKT>POINT(7.3608333333333 49.249444444444)</WKT>
+    <GND ID>4068199-3</GND ID>
+    <Freebase ID>/m/0f_s1</Freebase ID>
+    <GeoNames ID>2803620</GeoNames ID>
+    <TGN ID></TGN ID>
+    <place_compilation_korbo_uri>http://purl.org/net7/korbo2/item/104886</place_compilation_korbo_uri>
+  </row>
+</rows>
